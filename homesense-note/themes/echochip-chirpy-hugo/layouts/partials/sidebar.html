@@ -79,6 +79,11 @@
         <i class="fa-brands fa-x-twitter"></i>
       </a>
     {{ end }}
+    {{ with $social.threads }}
+      <a href="{{ . }}" aria-label="threads" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-threads"></i>
+      </a>
+    {{ end }}
     {{ with $social.email }}
       {{ $emailHref := cond (hasPrefix . "mailto:") . (printf "mailto:%s" .) }}
       <a href="{{ $emailHref }}" aria-label="email">
