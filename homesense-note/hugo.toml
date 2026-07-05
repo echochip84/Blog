@@ -1,0 +1,33 @@
+baseURL = 'https://homesense-note.pages.dev/'
+locale = 'ko-kr'
+title = '홈센스노트'
+theme = 'echochip-chirpy-hugo'
+enableRobotsTXT = true
+
+[params]
+  author = '편집팀'
+  description = '집수리·인테리어 전반을 다루는 전문 정보 블로그'
+  tagline = '집수리·인테리어, 판단 기준부터 비용까지'
+  favicon = ''
+  avatar = ''
+
+  [params.social]
+    github = 'https://github.com/echochip84'
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[permalinks]
+  posts = '/posts/:slug/'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
