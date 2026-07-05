@@ -28,6 +28,8 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.extensions]
+      strikethrough = false
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 3
