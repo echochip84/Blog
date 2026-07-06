@@ -54,6 +54,79 @@
     mask?.classList.add('d-none');
   };
 
+  const openSidebar = () => {
+    document.body.setAttribute('sidebar-display', '');
+    mask?.classList.remove('d-none');
+  };
+
+  const MOBILE_SIDEBAR_BREAKPOINT = 850;
+  const isMobileSidebarLayout = () => window.innerWidth < MOBILE_SIDEBAR_BREAKPOINT;
+
+  const installSidebarSwipeGestures = () => {
+    const SWIPE_THRESHOLD = 60;
+    const EDGE_ZONE = 24;
+    let startX = null;
+    let startY = null;
+    let tracking = false;
+
+    document.addEventListener(
+      'touchstart',
+      (event) => {
+        if (!isMobileSidebarLayout()) {
+          tracking = false;
+          return;
+        }
+
+        const touch = event.touches[0];
+        const expanded = document.body.hasAttribute('sidebar-display');
+
+        // Only start tracking an "open" swipe from near the left edge, so
+        // swiping inside horizontally-scrollable content (tables, code
+        // blocks) elsewhere on the page isn't hijacked.
+        if (!expanded && touch.clientX > EDGE_ZONE) {
+          tracking = false;
+          return;
+        }
+
+        startX = touch.clientX;
+        startY = touch.clientY;
+        tracking = true;
+      },
+      { passive: true }
+    );
+
+    document.addEventListener(
+      'touchend',
+      (event) => {
+        if (!tracking || startX === null) {
+          return;
+        }
+
+        tracking = false;
+
+        const touch = event.changedTouches[0];
+        const deltaX = touch.clientX - startX;
+        const deltaY = touch.clientY - startY;
+
+        startX = null;
+        startY = null;
+
+        if (Math.abs(deltaX) < SWIPE_THRESHOLD || Math.abs(deltaX) < Math.abs(deltaY)) {
+          return;
+        }
+
+        const expanded = document.body.hasAttribute('sidebar-display');
+
+        if (!expanded && deltaX > 0) {
+          openSidebar();
+        } else if (expanded && deltaX < 0) {
+          closeSidebar();
+        }
+      },
+      { passive: true }
+    );
+  };
+
   const wrapTables = () => {
     if (!content) {
       return;
@@ -312,6 +385,7 @@
   installTocActiveState();
   installThemeToggle();
   installMobileToc();
+  installSidebarSwipeGestures();
 
   sidebarTrigger?.addEventListener('click', () => {
     const expanded = document.body.hasAttribute('sidebar-display');
@@ -319,8 +393,7 @@
     if (expanded) {
       closeSidebar();
     } else {
-      document.body.setAttribute('sidebar-display', '');
-      mask?.classList.remove('d-none');
+      openSidebar();
     }
   });
 
