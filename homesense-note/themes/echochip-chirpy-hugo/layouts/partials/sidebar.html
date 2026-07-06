@@ -7,7 +7,7 @@
 {{ with site.GetPage "/archives" }}{{ $archivesURL = .RelPermalink }}{{ end }}
 {{ $aboutURL := "/about/" | relURL }}
 {{ with site.GetPage "/about" }}{{ $aboutURL = .RelPermalink }}{{ end }}
-<aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
+<aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end z-2">
   <header class="profile-wrapper">
     <a href="{{ "/" | relURL }}" id="avatar" class="rounded-circle" aria-label="{{ site.Title }}">
       {{ with site.Params.avatar }}
