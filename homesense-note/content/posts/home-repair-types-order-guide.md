@@ -8,7 +8,7 @@ lastmod: 2026-07-04
 draft: false
 categories: ["입문 교실"]
 tags: ["집수리", "공사순서", "입문"]
-author: "편집팀"
+author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1618832515490-e181c4794a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxob21lJTIwcmVub3ZhdGlvbiUyMHBsYW5uaW5nfGVufDB8MHx8fDE3ODMxNjgzNjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   alt: "리모델링 중인 방 안에 놓인 흰색 나무 가구와 공구"

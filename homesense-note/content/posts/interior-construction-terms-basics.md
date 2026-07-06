@@ -8,7 +8,7 @@ lastmod: 2026-07-04
 draft: false
 categories: ["입문 교실"]
 tags: ["인테리어", "용어", "입문"]
-author: "편집팀"
+author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1540103711724-ebf833bde8d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxpbnRlcmlvciUyMHJlbm92YXRpb24lMjBibHVlcHJpbnQlMjB0b29sc3xlbnwwfDB8fHwxNzgzMTcwODcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   alt: "다양한 색상의 시공 공구들이 나란히 놓인 모습"

@@ -1,11 +1,11 @@
 baseURL = 'https://blogsite.echochip.workers.dev/'
 locale = 'ko-kr'
-title = '홈센스노트'
+title = '홈센스 노트'
 theme = 'echochip-chirpy-hugo'
 enableRobotsTXT = true
 
 [params]
-  author = '편집팀'
+  author = '홈센스 노트'
   description = '집수리·인테리어 전반을 다루는 전문 정보 블로그'
   tagline = '집수리·인테리어<br>판단 기준부터 비용까지'
   favicon = ''

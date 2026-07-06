@@ -8,7 +8,7 @@ lastmod: 2026-07-05
 draft: false
 categories: ["입문 교실"]
 tags: ["기초개념", "리모델링", "인테리어"]
-author: "편집팀"
+author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1721244654394-36a7bc2da288?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxob21lJTIwcmVub3ZhdGlvbiUyMGJsdWVwcmludCUyMHBsYW58ZW58MHwwfHx8MTc4MzIyNTg0OXww&ixlib=rb-4.1.0&q=80&w=1080"
   alt: "건물 구조 변경 계획이 담긴 건축 도면"

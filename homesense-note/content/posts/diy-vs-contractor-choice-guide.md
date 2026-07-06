@@ -8,7 +8,7 @@ lastmod: 2026-07-05
 draft: false
 categories: ["입문 교실"]
 tags: ["선택기준", "셀프인테리어", "업체시공"]
-author: "편집팀"
+author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1645651964715-d200ce0939cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxkaXklMjBob21lJTIwcmVub3ZhdGlvbiUyMHRvb2xzfGVufDB8MHx8fDE3ODMyMjU4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   alt: "테이블 위에 놓인 셀프 인테리어용 공구들"
