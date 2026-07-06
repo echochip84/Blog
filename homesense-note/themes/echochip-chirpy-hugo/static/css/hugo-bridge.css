@@ -790,3 +790,18 @@ article > header + .content {
 #toc-solo-trigger {
   margin-bottom: 0.5rem;
 }
+
+/* footer had a fixed height (5rem desktop / 6rem mobile in main.css)
+   sized for its original two lines (copyright + "Powered by Hugo").
+   Adding the policy-links row on top of that squeezed everything
+   against the border-top divider instead of letting it breathe.
+   Let the footer grow to fit its content and pad it properly. */
+footer {
+  height: auto !important;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.footer-policy-links {
+  margin-top: 0;
+}
