@@ -9,7 +9,7 @@ enableRobotsTXT = true
   description = '집수리·인테리어 전반을 다루는 전문 정보 블로그'
   tagline = '집수리·인테리어<br>판단 기준부터 비용까지'
   favicon = ''
-  avatar = ''
+  avatar = '/images/avatar.png'
 
   [params.social]
     github = 'https://github.com/echochip84'

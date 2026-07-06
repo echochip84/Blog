@@ -1,7 +1,17 @@
-<footer
-  aria-label="Site Info"
-  class="d-flex flex-column justify-content-center text-muted flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3"
->
-  <p class="site-copyright">&copy; <strong><time>{{ now.Format "2006" }}</time></strong> {{ site.Params.footerOwner | default site.Title }}</p>
-  <p>Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> with <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a> style</p>
+<footer aria-label="Site Info" class="text-muted pb-lg-3">
+  <nav class="footer-policy-links d-flex justify-content-center justify-content-lg-start flex-wrap gap-2 mb-2" aria-label="Policy links">
+    <a href="{{ "/about/" | relURL }}">소개</a>
+    <span aria-hidden="true">·</span>
+    <a href="{{ "/editorial-policy/" | relURL }}">편집 정책</a>
+    <span aria-hidden="true">·</span>
+    <a href="{{ "/privacy/" | relURL }}">개인정보처리방침</a>
+    <span aria-hidden="true">·</span>
+    <a href="{{ "/disclaimer/" | relURL }}">면책조항</a>
+    <span aria-hidden="true">·</span>
+    <a href="{{ "/contact/" | relURL }}">문의</a>
+  </nav>
+  <div class="d-flex flex-column justify-content-center flex-lg-row justify-content-lg-between align-items-lg-center">
+    <p class="site-copyright">&copy; <strong><time>{{ now.Format "2006" }}</time></strong> {{ site.Params.footerOwner | default site.Title }}</p>
+    <p>Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> with <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a> style</p>
+  </div>
 </footer>

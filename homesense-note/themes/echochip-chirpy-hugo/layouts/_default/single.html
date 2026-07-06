@@ -104,6 +104,8 @@
 {{ end }}
 
 {{ define "tail" }}
-  {{ partial "post-nav.html" . }}
-  {{ partial "related.html" . }}
+  {{ if eq .Section "posts" }}
+    {{ partial "post-nav.html" . }}
+    {{ partial "related.html" . }}
+  {{ end }}
 {{ end }}
