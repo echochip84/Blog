@@ -777,3 +777,16 @@ main article[data-toc] .content h3::after {
   min-width: 2.25rem;
   text-align: center;
 }
+
+/* The header/TOC-trigger area sat right on top of the body text with
+   only 2rem of breathing room (main.css), which felt cramped on pages
+   with no cover image (About/policy pages especially, but also any
+   post). Give it a bit more air on both mobile and desktop. */
+article > .content,
+article > header + .content {
+  margin-top: 3rem;
+}
+
+#toc-solo-trigger {
+  margin-bottom: 0.5rem;
+}
