@@ -11,7 +11,12 @@ enableRobotsTXT = true
   favicon = ''
   avatar = '/images/avatar.png'
   # Zero-signup page-view counter (busuanzi.js, third-party free service).
+  # Shows an inline "조회 N회" count on each post.
   pageviews = true
+  # Cloudflare Web Analytics beacon token (dashboard-only stats, nothing
+  # shown on the page itself). Get it from the Cloudflare dashboard:
+  # Analytics & Logs > Web Analytics > Add a site > copy the token.
+  cloudflareAnalyticsToken = ''
 
   [params.social]
     github = 'https://github.com/echochip84'
@@ -24,7 +29,7 @@ enableRobotsTXT = true
   # Get the exact values from https://giscus.app after that setup.
   [params.giscus]
     repo = 'echochip84/BlogSite'
-    repoId = ''
+    repoId = 'R_kgDOTLeYRA'
     category = ''
     categoryId = ''
     mapping = 'pathname'

@@ -64,6 +64,9 @@
   {{ if site.Params.pageviews }}
     <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   {{ end }}
+  {{ with site.Params.cloudflareAnalyticsToken }}
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{{ printf `{"token": "%s"}` . }}"></script>
+  {{ end }}
   {{ with .OutputFormats.Get "RSS" }}
     <link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ site.Title }}">
   {{ end }}
