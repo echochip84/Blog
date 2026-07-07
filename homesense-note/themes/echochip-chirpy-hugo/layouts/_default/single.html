@@ -76,7 +76,7 @@
           <div class="post-meta">
             <i class="far fa-folder-open fa-fw me-1"></i>
             {{ range $index, $category := . }}
-              {{ $categoryURL := printf "/categories/%s/" ($category | urlize) | relURL }}
+              {{ $categoryURL := printf "categories/%s/" ($category | urlize) | relURL }}
               {{ with site.GetPage (printf "/categories/%s" $category) }}{{ $categoryURL = .RelPermalink }}{{ end }}
               <a href="{{ $categoryURL }}">{{ $category }}</a>{{ if lt (add $index 1) (len $.Params.categories) }}, {{ end }}
             {{ end }}
@@ -88,7 +88,7 @@
         <div class="post-tags">
           <i class="fa fa-tags fa-fw me-1"></i>
           {{ range . }}
-            {{ $tagURL := printf "/tags/%s/" (. | urlize) | relURL }}
+            {{ $tagURL := printf "tags/%s/" (. | urlize) | relURL }}
             {{ with site.GetPage (printf "/tags/%s" .) }}{{ $tagURL = .RelPermalink }}{{ end }}
             <a class="post-tag no-text-decoration" href="{{ $tagURL }}">{{ . }}</a>
           {{ end }}

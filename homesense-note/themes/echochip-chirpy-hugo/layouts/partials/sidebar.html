@@ -1,27 +1,30 @@
 {{ $path := .RelPermalink }}
-{{ $categoriesURL := "/categories/" | relURL }}
+{{ $homeURL := site.Home.RelPermalink }}
+{{ $categoriesURL := "categories/" | relURL }}
 {{ with site.GetPage "/categories" }}{{ $categoriesURL = .RelPermalink }}{{ end }}
-{{ $tagsURL := "/tags/" | relURL }}
+{{ $tagsURL := "tags/" | relURL }}
 {{ with site.GetPage "/tags" }}{{ $tagsURL = .RelPermalink }}{{ end }}
-{{ $archivesURL := "/archives/" | relURL }}
+{{ $archivesURL := "archives/" | relURL }}
 {{ with site.GetPage "/archives" }}{{ $archivesURL = .RelPermalink }}{{ end }}
-{{ $aboutURL := "/about/" | relURL }}
+{{ $aboutURL := "about/" | relURL }}
 {{ with site.GetPage "/about" }}{{ $aboutURL = .RelPermalink }}{{ end }}
+{{ $rssURL := "index.xml" | relURL }}
+{{ with .OutputFormats.Get "RSS" }}{{ $rssURL = .Permalink }}{{ end }}
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end z-2">
   <header class="profile-wrapper">
-    <a href="{{ "/" | relURL }}" id="avatar" class="rounded-circle" aria-label="{{ site.Title }}">
+    <a href="{{ $homeURL }}" id="avatar" class="rounded-circle" aria-label="{{ site.Title }}">
       {{ with site.Params.avatar }}
-        <img src="{{ . }}" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
+        <img src="{{ . | strings.TrimPrefix "/" | relURL }}" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
       {{ end }}
     </a>
-    <a class="site-title d-block" href="{{ "/" | relURL }}">{{ site.Title }}</a>
+    <a class="site-title d-block" href="{{ $homeURL }}">{{ site.Title }}</a>
     <p class="site-subtitle mb-0">{{ site.Params.tagline | safeHTML }}</p>
   </header>
 
   <nav class="flex-column flex-grow-1 w-100 ps-0" aria-label="Primary navigation">
     <ul class="nav">
       <li class="nav-item{{ if .IsHome }} active{{ end }}">
-        <a class="nav-link" href="{{ "/" | relURL }}">
+        <a class="nav-link" href="{{ $homeURL }}">
           <i class="fa-fw fas fa-home"></i>
           <span>홈</span>
         </a>
@@ -90,7 +93,7 @@
         <i class="fas fa-envelope"></i>
       </a>
     {{ end }}
-    <a href="{{ "/index.xml" | relURL }}" aria-label="rss">
+    <a href="{{ $rssURL }}" aria-label="rss">
       <i class="fas fa-rss"></i>
     </a>
   </div>

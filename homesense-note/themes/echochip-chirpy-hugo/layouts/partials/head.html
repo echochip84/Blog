@@ -17,7 +17,7 @@
   <title>{{ $pageTitle }}</title>
   <link rel="canonical" href="{{ .Permalink }}">
   {{ with site.Params.favicon }}
-    <link rel="icon" href="{{ . | relURL }}">
+    <link rel="icon" href="{{ . | strings.TrimPrefix "/" | relURL }}">
   {{ end }}
 
   <meta property="og:title" content="{{ cond .IsHome site.Title .Title }}">

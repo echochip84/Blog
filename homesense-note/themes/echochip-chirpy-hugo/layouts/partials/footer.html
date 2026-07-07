@@ -1,14 +1,24 @@
 <footer aria-label="Site Info" class="text-muted pb-lg-3">
+  {{ $aboutURL := "about/" | relURL }}
+  {{ with site.GetPage "/about" }}{{ $aboutURL = .RelPermalink }}{{ end }}
+  {{ $editorialURL := "editorial-policy/" | relURL }}
+  {{ with site.GetPage "/editorial-policy" }}{{ $editorialURL = .RelPermalink }}{{ end }}
+  {{ $privacyURL := "privacy/" | relURL }}
+  {{ with site.GetPage "/privacy" }}{{ $privacyURL = .RelPermalink }}{{ end }}
+  {{ $disclaimerURL := "disclaimer/" | relURL }}
+  {{ with site.GetPage "/disclaimer" }}{{ $disclaimerURL = .RelPermalink }}{{ end }}
+  {{ $contactURL := "contact/" | relURL }}
+  {{ with site.GetPage "/contact" }}{{ $contactURL = .RelPermalink }}{{ end }}
   <nav class="footer-policy-links d-flex justify-content-center flex-wrap gap-2 mb-2" aria-label="Policy links">
-    <a href="{{ "/about/" | relURL }}">소개</a>
+    <a href="{{ $aboutURL }}">소개</a>
     <span aria-hidden="true">·</span>
-    <a href="{{ "/editorial-policy/" | relURL }}">편집 정책</a>
+    <a href="{{ $editorialURL }}">편집 정책</a>
     <span aria-hidden="true">·</span>
-    <a href="{{ "/privacy/" | relURL }}">개인정보처리방침</a>
+    <a href="{{ $privacyURL }}">개인정보처리방침</a>
     <span aria-hidden="true">·</span>
-    <a href="{{ "/disclaimer/" | relURL }}">면책조항</a>
+    <a href="{{ $disclaimerURL }}">면책조항</a>
     <span aria-hidden="true">·</span>
-    <a href="{{ "/contact/" | relURL }}">문의</a>
+    <a href="{{ $contactURL }}">문의</a>
   </nav>
   <div class="d-flex flex-column justify-content-center flex-lg-row justify-content-lg-between align-items-lg-center">
     <p class="site-copyright">&copy; <strong><time>{{ now.Format "2006" }}</time></strong> {{ site.Params.footerOwner | default site.Title }}</p>

@@ -1,6 +1,6 @@
 {{ $tags := site.Taxonomies.tags.ByCount }}
 {{ if gt (len $tags) 0 }}
-  {{ $tagsURL := "/tags/" | relURL }}
+  {{ $tagsURL := "tags/" | relURL }}
   {{ with site.GetPage "/tags" }}{{ $tagsURL = .RelPermalink }}{{ end }}
   <li class="sidebar-taxonomy nested-taxonomy sidebar-taxonomy-tags">
     <ul class="taxonomy-list taxonomy-tags">
