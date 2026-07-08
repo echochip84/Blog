@@ -9,7 +9,7 @@ enableRobotsTXT = true
   description = '좁은 집도 넓게 쓰는 정리·수납 노하우를 공간별로 실험하고 기록하는 정리 연구소입니다.'
   tagline = '정리 수납 미니멀 라이프<br>효율적 공간 활용 꿀팁!'
   favicon = ''
-  avatar = '/images/avatar.png'
+  avatar = '/images/avatar.jpg'
   # Zero-signup page-view counter (busuanzi.js, third-party free service).
   # Shows an inline "조회 N회" count on each post.
   pageviews = true
