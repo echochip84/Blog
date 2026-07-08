@@ -10,9 +10,9 @@ categories: ["정리의 첫걸음"]
 tags: ["버리기", "기부", "중고거래"]
 author: "정리수납 연구소"
 cover:
-  image: "https://images.unsplash.com/photo-1669532673647-b1185ea1a594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxkb25hdGlvbiUyMGJveGVzJTIwY2xvdGhlcyUyMGNoYXJpdHl8ZW58MHwwfHx8MTc4MzUwMDI1OHww&ixlib=rb-4.1.0&q=80&w=1080"
-  alt: "기부할 옷과 물건이 담긴 상자"
-  caption: "Photo by [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
+  image: "https://images.unsplash.com/photo-1752486920540-016b9aefee41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "기부 또는 처분을 위해 물건을 담은 박스들"
+  caption: "Photo by [Harry Obahor](https://unsplash.com/@tionist?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0026"
 funnel_type: "최신제도"
 schema_type: "Article"

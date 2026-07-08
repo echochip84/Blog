@@ -10,9 +10,9 @@ categories: ["정리의 첫걸음"]
 tags: ["공간활용", "시선 정리", "넓어 보이는 집"]
 author: "편집팀"
 cover:
-  image: "https://images.unsplash.com/photo-1751945965597-71171ec7a458?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxicmlnaHQlMjBzcGFjaW91cyUyMG1pbmltYWxpc3QlMjByb29tfGVufDB8MHx8fDE3ODM1MDAyNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  alt: "깔끔하고 넓어 보이는 미니멀 거실"
-  caption: "Photo by [Nha Chill](https://unsplash.com/@nhachill?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
+  image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "넓어 보이도록 정돈된 소형 아파트 거실"
+  caption: "Photo by [Patrick Perkins](https://unsplash.com/@patrickperkins?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0016"
 funnel_type: "문제해결"
 schema_type: "Article"
