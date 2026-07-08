@@ -22,6 +22,15 @@
   {{ with site.Params.adsensePublisherId }}
     <meta name="google-adsense-account" content="ca-{{ . }}">
   {{ end }}
+  {{ with site.Params.googleSiteVerification }}
+    <meta name="google-site-verification" content="{{ . }}">
+  {{ end }}
+  {{ with site.Params.naverSiteVerification }}
+    <meta name="naver-site-verification" content="{{ . }}">
+  {{ end }}
+  {{ with site.Params.bingSiteVerification }}
+    <meta name="msvalidate.01" content="{{ . }}">
+  {{ end }}
 
   <meta property="og:title" content="{{ cond .IsHome site.Title .Title }}">
   <meta property="og:description" content="{{ $desc }}">
