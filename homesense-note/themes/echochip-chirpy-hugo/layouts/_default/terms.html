@@ -10,7 +10,20 @@
       {{ end }}
     </div>
   {{ else if eq .Data.Plural "categories" }}
-    {{ range .Data.Terms.Alphabetical }}
+    {{ $allCats := .Data.Terms.Alphabetical }}
+    {{ $orderedNames := slice }}
+    {{ with site.Data.taxonomy_order }}{{ with .categories }}{{ $orderedNames = . }}{{ end }}{{ end }}
+    {{ $categories := slice }}
+    {{ range $orderedNames }}
+      {{ $name := . }}
+      {{ range $allCats }}
+        {{ if eq .Page.Title $name }}{{ $categories = $categories | append . }}{{ end }}
+      {{ end }}
+    {{ end }}
+    {{ range $allCats }}
+      {{ if not (in $orderedNames .Page.Title) }}{{ $categories = $categories | append . }}{{ end }}
+    {{ end }}
+    {{ range $categories }}
       <div class="card categories">
         <div class="card-header d-flex justify-content-between hide-border-bottom">
           <span class="ms-2">
