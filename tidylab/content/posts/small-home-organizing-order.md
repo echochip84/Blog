@@ -9,7 +9,10 @@ draft: false
 categories: ["정리의 첫걸음"]
 tags: ["공간활용", "정리기초"]
 author: "편집팀"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1722942116153-ee3aa0fc2153?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMGFwYXJ0bWVudCUyMHN0b3JhZ2UlMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc4MzUwMDI1Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "좁은 원룸의 정돈된 수납 공간"
+  caption: "Photo by [Lisa Anna](https://unsplash.com/@lisaanna195?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0015"
 funnel_type: "문제해결"
 schema_type: "Article"

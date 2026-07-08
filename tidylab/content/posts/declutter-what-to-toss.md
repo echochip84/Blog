@@ -10,10 +10,9 @@ categories: ["정리의 첫걸음"]
 tags: ["버리기", "정리기초", "미니멀라이프"]
 author: "정리수납 연구소"
 cover:
-  image: ""
-  alt: ""
-  caption: ""
-image_pending: true
+  image: "https://images.unsplash.com/photo-1567113463300-102a7eb3cb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzb3J0aW5nJTIwY2xvdGhlcyUyMGNsb3NldCUyMGRlY2x1dHRlcmluZ3xlbnwwfDB8fHwxNzgzNTAwMjU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "옷장 안 옷을 정리하며 고르는 손"
+  caption: "Photo by [Sarah Brown](https://unsplash.com/@sweetpagesco?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0002"
 funnel_type: "입문교육"
 schema_type: "Article"

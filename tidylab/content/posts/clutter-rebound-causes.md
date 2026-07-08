@@ -9,7 +9,10 @@ draft: false
 categories: ["정리의 첫걸음"]
 tags: ["리바운드", "유지"]
 author: "편집팀"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1546617956-e3deefb51d58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjbHV0dGVyZWQlMjBtZXNzeSUyMGxpdmluZyUyMHJvb218ZW58MHwwfHx8MTc4MzUwMDI1NXww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "물건이 어지럽게 쌓인 거실"
+  caption: "Photo by [Jason Abdilla](https://unsplash.com/@theoneofussocialclub?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0013"
 funnel_type: "문제해결"
 schema_type: "Article"

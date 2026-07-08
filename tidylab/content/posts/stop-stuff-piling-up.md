@@ -1,5 +1,4 @@
 ---
-image_pending: true
 title: "물건이 계속 늘어나는 이유와 유입 막는 4규칙"
 slug: "stop-stuff-piling-up"
 description: "정리해도 물건이 다시 느는 건 수납이 부족해서가 아니라 유입이 유출보다 많기 때문입니다. 택배 통계로 본 유입 규모와, 물건이 느는 4가지 경로별 진단, 그리고 유입을 막는 4가지 규칙을 계산과 함께 정리했습니다."
@@ -10,6 +9,10 @@ draft: false
 categories: ["정리의 첫걸음"]
 tags: ["소비습관", "물건 줄이기", "미니멀라이프"]
 author: "편집팀"
+cover:
+  image: "https://images.unsplash.com/photo-1573311392049-4186e3a47e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzdG9yYWdlJTIwYm94ZXMlMjBwaWxpbmclMjB1cCUyMGNsb3NldHxlbnwwfDB8fHwxNzgzNTAwMjY1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "쌓여가는 수납 상자들"
+  caption: "Photo by [Zoe van Poetsprins.nl](https://unsplash.com/@poetsprins?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0014"
 funnel_type: "문제해결"
 schema_type: "Article"

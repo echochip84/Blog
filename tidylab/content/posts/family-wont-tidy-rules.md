@@ -9,7 +9,10 @@ draft: false
 categories: ["정리의 첫걸음"]
 tags: ["가족정리", "습관", "유지"]
 author: "편집팀"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1606788075819-9574a6edfab3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxmYW1pbHklMjBjbGVhbmluZyUyMGhvdXNlJTIwdG9nZXRoZXJ8ZW58MHwwfHx8MTc4MzUwMDI2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "가족이 함께 집을 정리하는 모습"
+  caption: "Photo by [Jimmy Dean](https://unsplash.com/@jimmydean?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0017"
 funnel_type: "문제해결"
 schema_type: "Article"

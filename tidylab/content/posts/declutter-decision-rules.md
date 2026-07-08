@@ -10,10 +10,9 @@ categories: ["정리의 첫걸음"]
 tags: ["버리기", "미니멀라이프", "정리기준"]
 author: "정리수납 연구소"
 cover:
-  image: ""
-  alt: ""
-  caption: ""
-image_pending: true
+  image: "https://images.unsplash.com/photo-1703223915484-c6171d5301ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXN0JTIwZGVjaXNpb24lMjBrZWVwJTIwb3IlMjBkaXNjYXJkfGVufDB8MHx8fDE3ODM1MDAyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "물건을 손에 들고 고민하는 모습"
+  caption: "Photo by [Robert Gourley](https://unsplash.com/@robertgourley?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0020"
 funnel_type: "비교판단"
 schema_type: "Article"

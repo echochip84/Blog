@@ -10,10 +10,9 @@ categories: ["정리의 첫걸음"]
 tags: ["공간활용", "수납용품"]
 author: "정리수납 연구소"
 cover:
-  image: ""
-  alt: ""
-  caption: ""
-image_pending: true
+  image: "https://images.unsplash.com/photo-1647381518264-97ff1835026f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBob21lJTIwb3JnYW5pemluZyUyMHNlcnZpY2V8ZW58MHwwfHx8MTc4MzUwMDI1NHww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "정리 대행 서비스로 옷장을 정리하는 모습"
+  caption: "Photo by [Josue Michel](https://unsplash.com/@josuemichelphotography?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0021"
 funnel_type: "비교판단"
 schema_type: "Article"

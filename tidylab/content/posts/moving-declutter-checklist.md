@@ -9,7 +9,10 @@ draft: false
 categories: ["정리의 첫걸음"]
 tags: ["이사", "버리기"]
 author: "편집팀"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1730154838368-c37b1fdebcf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxtb3ZpbmclMjBib3hlcyUyMHBhY2tpbmclMjBob3VzZXxlbnwwfDB8fHwxNzgzNTAwMjYyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "이사를 위해 짐을 싸는 박스들"
+  caption: "Photo by [Dina Badamshina](https://unsplash.com/@dinaamazing?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0022"
 funnel_type: "체크리스트"
 schema_type: "Article"
