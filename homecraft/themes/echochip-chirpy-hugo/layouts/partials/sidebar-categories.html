@@ -1,0 +1,27 @@
+{{ $allCats := site.Taxonomies.categories.Alphabetical }}
+{{ $orderedNames := slice }}
+{{ with site.Data.taxonomy_order }}{{ with .categories }}{{ $orderedNames = . }}{{ end }}{{ end }}
+{{ $categories := slice }}
+{{ range $orderedNames }}
+  {{ $name := . }}
+  {{ range $allCats }}
+    {{ if eq .Term $name }}{{ $categories = $categories | append . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ range $allCats }}
+  {{ if not (in $orderedNames .Term) }}{{ $categories = $categories | append . }}{{ end }}
+{{ end }}
+{{ if gt (len $categories) 0 }}
+  <li class="sidebar-taxonomy nested-taxonomy">
+    <ul class="taxonomy-list">
+    {{ range $categories }}
+      <li>
+        <a class="taxonomy-link" href="{{ .Page.RelPermalink }}">
+          <span class="taxonomy-name">{{ .Term }}</span>
+          <span class="taxonomy-count">{{ .Count }}</span>
+        </a>
+      </li>
+    {{ end }}
+    </ul>
+  </li>
+{{ end }}
