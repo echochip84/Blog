@@ -7,7 +7,7 @@ enableRobotsTXT = true
 [params]
   author = '정리수납 연구소'
   description = '좁은 집도 넓게 쓰는 정리·수납 노하우를 공간별로 실험하고 기록하는 정리 연구소입니다.'
-  tagline = '정리·수납·미니멀라이프를 통해 한정된 공간을 효율적으로 쓰는 법을 알려주는 생활 정리 블로그'
+  tagline = '정리 수납 미니멀 라이프<br>효율적 공간 활용 꿀팁!'
   favicon = ''
   avatar = '/images/avatar.png'
   # Zero-signup page-view counter (busuanzi.js, third-party free service).
