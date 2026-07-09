@@ -10,9 +10,9 @@ categories: ["입문 교실"]
 tags: ["집수리", "공사순서", "입문"]
 author: "홈센스 노트"
 cover:
-  image: "https://images.unsplash.com/photo-1618832515490-e181c4794a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxob21lJTIwcmVub3ZhdGlvbiUyMHBsYW5uaW5nfGVufDB8MHx8fDE3ODMxNjgzNjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  alt: "리모델링 중인 방 안에 놓인 흰색 나무 가구와 공구"
-  caption: "Photo by [immo RENOVATION](https://unsplash.com/@immorenovation?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
+  image: "https://images.unsplash.com/photo-1634586648651-f1fb9ec10d90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxob21lJTIwcmVwYWlyJTIwaW50ZXJpb3IlMjByZW5vdmF0aW9uJTIwd29ya3xlbnwwfDB8fHwxNzgzNTk5MjI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "리모델링 공사 중인 실내 공간에 공구와 자재가 놓인 모습"
+  caption: "Photo by [Stefan Lehner](https://unsplash.com/@st_lehner?utm_source=blog&utm_medium=referral?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0001"
 funnel_type: "입문교육"
 schema_type: "Article"

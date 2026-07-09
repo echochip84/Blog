@@ -10,7 +10,7 @@ categories: ["입문 교실"]
 tags: ["인테리어", "용어", "입문"]
 author: "홈센스 노트"
 cover:
-  image: "https://images.unsplash.com/photo-1540103711724-ebf833bde8d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxpbnRlcmlvciUyMHJlbm92YXRpb24lMjBibHVlcHJpbnQlMjB0b29sc3xlbnwwfDB8fHwxNzgzMTcwODcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  image: "https://images.unsplash.com/photo-1540103711724-ebf833bde8d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxpbnRlcmlvciUyMHJlbm92YXRpb24lMjBibHVlcHJpbnQlMjB0b29sc3xlbnwwfDB8fHwxNzgzNTk5MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
   alt: "다양한 색상의 시공 공구들이 나란히 놓인 모습"
   caption: "Photo by [Eugen Str](https://unsplash.com/@eugen1980?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0003"

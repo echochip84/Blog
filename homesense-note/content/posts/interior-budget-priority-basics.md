@@ -10,9 +10,9 @@ categories: ["입문 교실"]
 tags: ["인테리어", "예산", "입문"]
 author: "홈센스 노트"
 cover:
-  image: "https://images.unsplash.com/photo-1626266061368-46a8f578ddd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxob21lJTIwYnVkZ2V0JTIwcGxhbm5pbmclMjBjYWxjdWxhdG9yfGVufDB8MHx8fDE3ODMxNzAxMjl8MA&ixlib=rb-4.1.0&q=80&w=1080"
-  alt: "계산기와 커피잔을 앞에 두고 예산을 계산하는 모습"
-  caption: "Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
+  image: "https://images.unsplash.com/photo-1503387837-b154d5074bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxob21lJTIwcmVub3ZhdGlvbiUyMGJsdWVwcmludCUyMHBsYW5uaW5nJTIwZGVza3xlbnwwfDB8fHwxNzgzNTk5MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "인테리어 도면 위에서 설계를 검토하는 모습"
+  caption: "Photo by [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=blog&utm_medium=referral?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0002"
 funnel_type: "입문교육"
 schema_type: "Article"
