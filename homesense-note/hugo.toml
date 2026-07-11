@@ -5,10 +5,10 @@ theme = 'echochip-chirpy-hugo'
 enableRobotsTXT = true
 
 [params]
-  author = '홈센스 노트'
+  author = 'echochip'
   description = '집수리·인테리어 전반을 다루는 전문 정보 블로그'
   tagline = '집수리·인테리어<br>판단 기준부터 비용까지'
-  favicon = ''
+  favicon = 'images/avatar.png'
   avatar = '/images/avatar.png'
   # Zero-signup page-view counter (busuanzi.js, third-party free service).
   # Off by default: busuanzi's backend is unreliable and often leaves the

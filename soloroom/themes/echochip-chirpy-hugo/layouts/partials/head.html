@@ -1,7 +1,7 @@
 <head>
   {{ $desc := .Description | default (.Summary | plainify) | default site.Params.description | default site.Title | plainify | truncate 160 }}
   {{ $pageTitle := cond .IsHome site.Title (printf "%s | %s" .Title site.Title) }}
-  {{ $author := site.Params.author | default site.Title }}
+  {{ $author := site.Params.author | default "echochip" }}
   {{ $lang := site.Language.Locale | default "ko-KR" }}
   {{ $locale := replace $lang "-" "_" }}
   {{ $image := "" }}
