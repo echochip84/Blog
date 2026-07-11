@@ -28,7 +28,7 @@ enableRobotsTXT = true
   [params.social]
     github = 'https://github.com/echochip84'
     threads = 'https://www.threads.com/@echochip2025'
-    email = 'echchip@naver.com'
+    email = 'echochip@naver.com'
 
   # Giscus comments (GitHub Discussions-backed). Leave repoId/categoryId
   # empty until Discussions is enabled on the repo and the giscus GitHub

@@ -31,6 +31,9 @@
   {{ with site.Params.bingSiteVerification }}
     <meta name="msvalidate.01" content="{{ . }}">
   {{ end }}
+  {{ if site.Params.noindexSite }}
+    <meta name="robots" content="noindex,follow">
+  {{ end }}
 
   <meta property="og:title" content="{{ cond .IsHome site.Title .Title }}">
   <meta property="og:description" content="{{ $desc }}">
