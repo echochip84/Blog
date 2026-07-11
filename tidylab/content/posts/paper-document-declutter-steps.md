@@ -9,7 +9,10 @@ draft: false
 categories: ["정리의 첫걸음"]
 tags: ["서류정리"]
 author: "편집팀"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1554224155-1696413565d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxwYXBlciUyMGRvY3VtZW50JTIwZGVjbHV0dGVyaW5nJTIwZGVza3xlbnwwfDB8fHwxNzgzNzQ1MDY0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "정리 전 책상 위에 펼쳐진 여러 장의 종이 서류"
+  caption: "Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0018"
 funnel_type: "문제해결"
 schema_type: "Article"

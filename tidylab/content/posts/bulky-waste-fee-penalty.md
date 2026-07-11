@@ -9,7 +9,10 @@ draft: false
 categories: ["계절 정리법"]
 tags: ["계절정리", "대형폐기물"]
 author: "편집팀"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1632667226262-3f341ec5afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxidWxreSUyMHdhc3RlJTIwcGlja3VwJTIwZnVybml0dXJlfGVufDB8MHx8fDE3ODM3NDUwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "대형폐기물로 배출되기 위해 쌓여 있는 나무 의자"
+  caption: "Photo by [Wayee Tan](https://unsplash.com/@superbfnds?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0136"
 funnel_type: "최신제도"
 schema_type: "Article"
