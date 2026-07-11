@@ -1,0 +1,75 @@
+{{ define "main" }}
+  {{ $allPosts := where site.RegularPages "Section" "posts" }}
+  {{ $hero := index $allPosts 0 }}
+  {{ $rest := after 1 $allPosts }}
+  {{ $trending := first 3 $rest }}
+  {{ $afterTrending := after 3 $rest }}
+
+  <div class="mag-wrapper">
+
+    {{ with $hero }}
+    <section class="mag-hero">
+      <a href="{{ .RelPermalink }}" class="mag-hero-link">
+        {{ $img := "" }}
+        {{ with .Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
+        <div class="mag-hero-media"{{ if $img }} style="background-image:url('{{ $img }}');"{{ end }}>
+          <div class="mag-hero-overlay">
+            {{ with .Params.categories }}<span class="mag-badge">{{ index . 0 }}</span>{{ end }}
+            <h1 class="mag-hero-title">{{ .Title }}</h1>
+            <p class="mag-hero-desc">{{ .Summary | plainify | truncate 90 }}</p>
+            <span class="mag-cta">자세히 보기 <i class="fas fa-arrow-right"></i></span>
+          </div>
+        </div>
+      </a>
+    </section>
+    {{ end }}
+
+    {{ if gt (len $trending) 0 }}
+    <section class="mag-hub">
+      <div class="mag-hub-header">
+        <h2 class="mag-section-title">지금 뜨는 글</h2>
+      </div>
+      <div class="mag-grid mag-grid-3">
+        {{ range $trending }}
+          {{ partial "magazine-card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    {{ $hubCategories := slice "입문 교실" "업체 견적" "하자 대응" }}
+    {{ range $hubCategories }}
+      {{ $cat := . }}
+      {{ $catPosts := where $allPosts "Params.categories" "intersect" (slice $cat) }}
+      {{ if gt (len $catPosts) 0 }}
+        <section class="mag-hub">
+          <div class="mag-hub-header">
+            <h2 class="mag-section-title">{{ $cat }} 모아보기</h2>
+            {{ with site.GetPage (printf "/categories/%s" $cat) }}
+              <a class="mag-more" href="{{ .RelPermalink }}">더보기 <i class="fas fa-chevron-right"></i></a>
+            {{ end }}
+          </div>
+          <div class="mag-grid mag-grid-4">
+            {{ range first 4 $catPosts }}
+              {{ partial "magazine-card.html" . }}
+            {{ end }}
+          </div>
+        </section>
+      {{ end }}
+    {{ end }}
+
+    {{ if gt (len $afterTrending) 0 }}
+    <section class="mag-hub">
+      <div class="mag-hub-header">
+        <h2 class="mag-section-title">전체 글</h2>
+      </div>
+      <div class="mag-grid mag-grid-3">
+        {{ range $afterTrending }}
+          {{ partial "magazine-card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+  </div>
+{{ end }}

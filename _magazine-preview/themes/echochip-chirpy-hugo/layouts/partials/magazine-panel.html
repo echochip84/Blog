@@ -1,0 +1,40 @@
+{{ $allPosts := where site.RegularPages "Section" "posts" }}
+{{ $best := first 5 $allPosts }}
+
+<section class="mag-panel-section">
+  <h2 class="panel-heading mag-panel-heading">인기 글 BEST</h2>
+  <ul class="mag-panel-best list-unstyled ps-0 mt-2 mb-0">
+    {{ range $i, $p := $best }}
+      {{ $img := "" }}
+      {{ with $p.Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
+      <li class="mag-panel-best-item">
+        <a href="{{ $p.RelPermalink }}">
+          <span class="mag-panel-best-rank">{{ add $i 1 }}</span>
+          <span class="mag-panel-best-thumb"{{ if $img }} style="background-image:url('{{ $img }}');"{{ end }}></span>
+          <span class="mag-panel-best-title">{{ $p.Title }}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</section>
+
+<section class="mag-panel-section">
+  <h2 class="panel-heading mag-panel-heading">카테고리 둘러보기</h2>
+  <div class="mag-panel-categories">
+    {{ range site.Taxonomies.categories.ByCount }}
+      <a class="mag-panel-cat-pill" href="{{ .Page.RelPermalink }}">
+        <span>{{ .Page.Title }}</span>
+        <span class="mag-panel-cat-count">{{ .Count }}</span>
+      </a>
+    {{ end }}
+  </div>
+</section>
+
+<section class="mag-panel-section">
+  <h2 class="panel-heading mag-panel-heading">인기 태그</h2>
+  <div class="d-flex flex-wrap mt-2 mb-1">
+    {{ range first 10 site.Taxonomies.tags.ByCount }}
+      <a class="post-tag btn btn-outline-primary" href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+    {{ end }}
+  </div>
+</section>

@@ -1,0 +1,16 @@
+<aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-xl-2 text-muted{{ if and .IsPage .TableOfContents }} has-toc{{ else }} no-toc{{ end }}">
+  <div class="access">
+    {{ if .IsHome }}
+      {{ partial "magazine-panel.html" . }}
+    {{ else }}
+      {{ if and .IsPage .TableOfContents }}
+        <section id="toc-wrapper" class="position-sticky ps-0 pe-4 pb-4">
+          <h2 class="panel-heading ps-3 pb-2 mb-0">목차</h2>
+          <div id="toc">{{ replace .TableOfContents "<nav id=\"TableOfContents\">" "<nav id=\"TableOfContents\" aria-label=\"Table of contents\">" | safeHTML }}</div>
+        </section>
+      {{ end }}
+
+      {{ partial "magazine-panel.html" . }}
+    {{ end }}
+  </div>
+</aside>

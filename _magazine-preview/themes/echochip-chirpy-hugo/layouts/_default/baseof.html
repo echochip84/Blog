@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.Locale | default "ko-KR" }}">
+  {{ partial "head.html" . }}
+  <body>
+    <a class="visually-hidden-focusable" href="#main-content">Skip to content</a>
+    {{ partial "navbar.html" . }}
+    {{ partial "search-results.html" . }}
+
+    <div id="main-wrapper">
+      <div class="container-xl d-flex flex-column px-3 px-lg-4">
+        <div class="row flex-grow-1">
+          <main id="main-content" aria-label="Main Content" class="col-12 col-xl-9">
+            {{ block "main" . }}{{ end }}
+          </main>
+
+          {{ partial "panel.html" . }}
+        </div>
+
+        <div class="row">
+          <div id="tail-wrapper" class="col-12 col-xl-9">
+            {{ block "tail" . }}{{ end }}
+            {{ partial "footer.html" . }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <aside aria-label="Scroll to Top">
+      <button id="back-to-top" type="button" class="btn btn-lg btn-box-shadow" aria-label="Back to top">
+        <i class="fas fa-angle-up"></i>
+      </button>
+    </aside>
+    {{ partial "search-data.html" . }}
+    <script src="{{ "js/main.js" | relURL }}?v=magazine-navbar-1"></script>
+  </body>
+</html>

@@ -1,0 +1,370 @@
+/* ---- 매거진+허브형 테마 (미리보기 전용) ---- */
+
+/* 예전 테마는 260px 고정 좌측 사이드바를 전제로 #main-wrapper에 margin-left를
+   줬다. 상단 내비게이션으로 바뀌었으니 그 여백을 없애고, 대신 sticky 네비바
+   높이만큼 위쪽 여백을 준다. */
+#main-wrapper {
+  margin-left: 0 !important;
+  width: 100% !important;
+  justify-content: center !important;
+  padding-top: 1.5rem;
+}
+#main-wrapper > .container-xl { min-height: 60vh; }
+
+body { padding-top: 60px; }
+
+/* ==========================================================================
+   상단 내비게이션
+   ========================================================================== */
+#mag-navbar {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 1030;
+  background: var(--card-bg);
+  box-shadow: 0 1px 0 rgb(0 0 0 / 8%);
+}
+.mag-navbar-inner {
+  max-width: 1320px;
+  margin: 0 auto;
+  height: 60px;
+  padding: 0 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+.mag-navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: .55rem;
+  text-decoration: none;
+  color: var(--heading-color);
+  flex: 0 0 auto;
+}
+.mag-navbar-logo { border-radius: 50%; object-fit: cover; }
+.mag-navbar-title { font-size: 1rem; font-weight: 800; letter-spacing: -.01em; white-space: nowrap; }
+
+.mag-navbar-toggler {
+  display: none;
+  margin-left: auto;
+  border: none;
+  background: transparent;
+  font-size: 1.15rem;
+  color: var(--heading-color);
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 8px;
+}
+.mag-navbar-toggler:hover { background: var(--card-hover-bg); }
+
+#mag-navbar-links {
+  display: flex;
+  align-items: center;
+  gap: .3rem;
+  flex: 1 1 auto;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+#mag-navbar-links::-webkit-scrollbar { display: none; }
+.mag-nav-link {
+  display: inline-block;
+  white-space: nowrap;
+  padding: .45rem .85rem;
+  border-radius: 999px;
+  font-size: .875rem;
+  font-weight: 600;
+  color: var(--text-color);
+  text-decoration: none;
+  transition: background-color .1s ease, color .1s ease;
+}
+.mag-nav-link:hover { background: var(--card-hover-bg); }
+.mag-nav-link.active {
+  background: var(--link-color, #0d6efd);
+  color: #fff;
+}
+
+.mag-navbar-actions {
+  display: flex;
+  align-items: center;
+  gap: .3rem;
+  flex: 0 0 auto;
+}
+.mag-navbar-icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  border-radius: 50%;
+  border: none;
+  background: transparent;
+  color: var(--text-color);
+  text-decoration: none;
+  transition: background-color .1s ease, transform .1s ease;
+}
+.mag-navbar-icon-btn:hover { background: var(--card-hover-bg); transform: translateY(-1px); }
+
+#mag-navbar search#search {
+  display: none;
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: .6rem 1.25rem 1rem;
+}
+
+@media (max-width: 900px) {
+  .mag-navbar-toggler { display: inline-flex; align-items: center; justify-content: center; }
+  #mag-navbar-links {
+    display: none;
+    position: absolute;
+    top: 60px; left: 0; right: 0;
+    flex-direction: column;
+    align-items: stretch;
+    background: var(--card-bg);
+    padding: .6rem 1rem 1rem;
+    box-shadow: 0 4px 12px rgb(0 0 0 / 12%);
+  }
+  #mag-navbar.nav-open #mag-navbar-links { display: flex; }
+  .mag-nav-link { padding: .65rem .9rem; }
+  .mag-navbar-title { display: none; }
+}
+
+/* 히어로 */
+.mag-hero {
+  margin-bottom: 2.5rem;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: var(--card-shadow);
+}
+.mag-hero-link { display: block; text-decoration: none; color: inherit; }
+.mag-hero-media {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  min-height: 260px;
+  background-size: cover;
+  background-position: center;
+  background-color: var(--card-bg);
+  display: flex;
+  align-items: flex-end;
+}
+.mag-hero-overlay {
+  width: 100%;
+  padding: 2.2rem 2rem 1.8rem;
+  background: linear-gradient(180deg, rgb(0 0 0 / 0%) 0%, rgb(0 0 0 / 75%) 100%);
+  color: #fff;
+}
+.mag-badge, .mag-card-badge {
+  display: inline-block;
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .02em;
+  padding: .28rem .7rem;
+  border-radius: 999px;
+  background: var(--link-color, #0d6efd);
+  color: #fff;
+  margin-bottom: .7rem;
+}
+.mag-hero-title {
+  font-size: clamp(1.75rem, 3.4vw, 2.75rem);
+  font-weight: 800;
+  line-height: 1.22;
+  margin: 0 0 .5rem;
+  text-shadow: 0 2px 10px rgb(0 0 0 / 35%);
+}
+.mag-hero-desc {
+  font-size: 1rem;
+  opacity: .92;
+  max-width: 640px;
+  margin: 0 0 .9rem;
+}
+.mag-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  font-weight: 700;
+  font-size: .875rem;
+  padding: .5rem 1rem;
+  border-radius: 999px;
+  background: #fff;
+  color: #111;
+}
+
+/* 허브 섹션 헤더 */
+.mag-hub { margin-bottom: 2.6rem; }
+.mag-hub-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+.mag-section-title {
+  font-size: 1.375rem;
+  font-weight: 800;
+  margin: 0;
+  color: var(--heading-color);
+  position: relative;
+  padding-left: .8rem;
+  border-left: 5px solid var(--link-color, #0d6efd);
+}
+.mag-more {
+  font-size: .875rem;
+  font-weight: 600;
+  color: var(--sidebar-muted-color, #888);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.mag-more:hover { color: var(--link-color, #0d6efd); }
+
+/* 그리드 */
+.mag-grid {
+  display: grid;
+  gap: 1.2rem;
+}
+.mag-grid-3 { grid-template-columns: repeat(3, 1fr); }
+.mag-grid-4 { grid-template-columns: repeat(4, 1fr); }
+
+.mag-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--card-bg);
+  box-shadow: var(--card-shadow);
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.mag-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgb(0 0 0 / 18%);
+}
+.mag-card-media {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  background-size: cover;
+  background-position: center;
+  background-color: var(--card-header-bg, #eee);
+  display: flex;
+  align-items: flex-start;
+  padding: .7rem;
+}
+.mag-card-badge { margin: 0; font-size: .6875rem; padding: .2rem .55rem; }
+.mag-card-body { padding: .8rem .9rem .9rem; }
+.mag-card-title {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0 0 .4rem;
+  color: var(--heading-color);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.mag-card-date {
+  font-size: .75rem;
+  color: var(--sidebar-muted-color, #999);
+}
+
+/* 카테고리/태그 목록 페이지 헤더 */
+.mag-list-header { margin-bottom: 1.5rem; }
+.mag-list-header h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  line-height: 1.25;
+  margin: 0;
+}
+.mag-list-count {
+  font-size: .875rem;
+  font-weight: 600;
+  color: var(--sidebar-muted-color, #999);
+  margin-left: .4rem;
+}
+
+/* 전체 태그/카테고리 인덱스 페이지 살짝 정리 */
+#tags { gap: .5rem; }
+#tags a.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .4rem .85rem;
+  border-radius: 999px;
+  background: var(--card-bg);
+  box-shadow: var(--card-shadow);
+  text-decoration: none;
+  color: var(--text-color);
+  font-weight: 600;
+  font-size: .875rem;
+}
+#tags a.tag:hover { background: var(--link-color, #0d6efd); color: #fff; }
+
+@media (max-width: 992px) {
+  .mag-grid-4 { grid-template-columns: repeat(2, 1fr); }
+  .mag-grid-3 { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 576px) {
+  .mag-grid-4, .mag-grid-3 { grid-template-columns: 1fr; }
+  .mag-hero-overlay { padding: 1.4rem 1.1rem; }
+}
+
+/* ==========================================================================
+   우측 패널 — 매거진형 위젯 (전 페이지 공통)
+   ========================================================================== */
+.mag-panel-section { margin-bottom: 1.8rem; }
+.mag-panel-heading { font-size: 1rem !important; margin-bottom: .6rem; }
+
+.mag-panel-best-item { margin-bottom: .55rem; }
+.mag-panel-best-item a {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  text-decoration: none;
+  color: inherit;
+  padding: .35rem;
+  border-radius: 10px;
+  transition: background-color .1s ease;
+}
+.mag-panel-best-item a:hover { background-color: var(--card-hover-bg); }
+.mag-panel-best-rank {
+  flex: 0 0 auto;
+  width: 1.4rem;
+  font-size: .75rem;
+  font-weight: 800;
+  color: var(--link-color, #0d6efd);
+  text-align: center;
+}
+.mag-panel-best-thumb {
+  flex: 0 0 auto;
+  width: 52px;
+  height: 52px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: center;
+  background-color: var(--card-header-bg, #eee);
+}
+.mag-panel-best-title {
+  font-size: .875rem;
+  font-weight: 600;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.mag-panel-categories { display: flex; flex-wrap: wrap; gap: .5rem; }
+.mag-panel-cat-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  font-size: .875rem;
+  font-weight: 600;
+  padding: .4rem .8rem;
+  border-radius: 999px;
+  background: var(--btn-border-color, #eee);
+  color: var(--text-color);
+  text-decoration: none;
+}
+.mag-panel-cat-pill:hover { background: var(--link-color, #0d6efd); color: #fff; }
+.mag-panel-cat-count {
+  font-size: .6875rem;
+  opacity: .7;
+}

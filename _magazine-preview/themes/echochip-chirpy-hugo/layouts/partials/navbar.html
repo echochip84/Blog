@@ -1,0 +1,68 @@
+{{ $homeURL := site.Home.RelPermalink }}
+{{ $tagsURL := "tags/" | relURL }}
+{{ with site.GetPage "/tags" }}{{ $tagsURL = .RelPermalink }}{{ end }}
+{{ $archivesURL := "archives/" | relURL }}
+{{ with site.GetPage "/archives" }}{{ $archivesURL = .RelPermalink }}{{ end }}
+{{ $aboutURL := "about/" | relURL }}
+{{ with site.GetPage "/about" }}{{ $aboutURL = .RelPermalink }}{{ end }}
+{{ $rssURL := "index.xml" | relURL }}
+{{ with .OutputFormats.Get "RSS" }}{{ $rssURL = .Permalink }}{{ end }}
+{{ $path := .RelPermalink }}
+{{ $orderedCats := slice }}
+{{ with site.Data.taxonomy_order }}{{ with .categories }}{{ $orderedCats = . }}{{ end }}{{ end }}
+{{ $allCats := site.Taxonomies.categories.Alphabetical }}
+{{ $cats := slice }}
+{{ range $orderedCats }}
+  {{ $name := . }}
+  {{ range $allCats }}{{ if eq .Page.Title $name }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
+{{ end }}
+{{ range $allCats }}{{ if not (in $orderedCats .Page.Title) }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
+
+<header id="mag-navbar" aria-label="주 메뉴">
+  <div class="mag-navbar-inner">
+    <a href="{{ $homeURL }}" class="mag-navbar-brand">
+      {{ with site.Params.avatar }}
+        <img src="{{ . | strings.TrimPrefix "/" | relURL }}" width="34" height="34" alt="{{ site.Title }}" class="mag-navbar-logo" onerror="this.style.display='none'">
+      {{ end }}
+      <span class="mag-navbar-title">{{ site.Title }}</span>
+    </a>
+
+    <button type="button" id="mag-nav-trigger" class="mag-navbar-toggler" aria-label="메뉴 열기" aria-expanded="false">
+      <i class="fas fa-bars"></i>
+    </button>
+
+    <nav id="mag-navbar-links" aria-label="카테고리 메뉴">
+      <a class="mag-nav-link{{ if .IsHome }} active{{ end }}" href="{{ $homeURL }}">홈</a>
+      {{ range $cats }}
+        <a class="mag-nav-link{{ if eq $path .Page.RelPermalink }} active{{ end }}" href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+      {{ end }}
+      <a class="mag-nav-link{{ if hasPrefix $path "/tags/" }} active{{ end }}" href="{{ $tagsURL }}">태그</a>
+      <a class="mag-nav-link{{ if hasPrefix $path "/archives/" }} active{{ end }}" href="{{ $archivesURL }}">아카이브</a>
+      <a class="mag-nav-link{{ if hasPrefix $path "/about/" }} active{{ end }}" href="{{ $aboutURL }}">정보</a>
+    </nav>
+
+    <div class="mag-navbar-actions">
+      <button type="button" id="search-trigger" class="mag-navbar-icon-btn" aria-label="검색">
+        <i class="fas fa-search"></i>
+      </button>
+      <div class="btn-group dropup">
+        <button type="button" class="mag-navbar-icon-btn" aria-label="Switch Mode" id="mode-toggle">
+          <i class="fa-regular fa-sun" data-theme-mode="light"></i>
+          <i class="fa-regular fa-moon" data-theme-mode="dark"></i>
+          <i class="fa-solid fa-display" data-theme-mode="system"></i>
+        </button>
+      </div>
+      {{ $social := site.Params.social | default dict }}
+      {{ with $social.github }}
+        <a href="{{ . }}" class="mag-navbar-icon-btn d-none d-lg-inline-flex" aria-label="github" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+      {{ end }}
+      <a href="{{ $rssURL }}" class="mag-navbar-icon-btn d-none d-lg-inline-flex" aria-label="rss"><i class="fas fa-rss"></i></a>
+    </div>
+  </div>
+
+  <search id="search" class="align-items-center">
+    <i class="fas fa-search fa-fw"></i>
+    <input class="form-control" id="search-input" type="search" aria-label="search" autocomplete="off" placeholder="검색...">
+    <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">취소</button>
+  </search>
+</header>

@@ -9,7 +9,10 @@ draft: false
 categories: ["입문 교실"]
 tags: ["상담", "업체미팅", "체크리스트"]
 author: "편집팀"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1754039985008-a15410211b67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxpbnRlcmlvciUyMGRlc2lnbiUyMG1lZXRpbmclMjBjaGVja2xpc3QlMjBwbGFubmluZ3xlbnwwfDB8fHwxNzgzNzM3OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "체크리스트 노트에 항목을 체크하는 모습"
+  caption: "Photo by [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hsn-0026"
 funnel_type: "체크리스트"
 schema_type: "Article"

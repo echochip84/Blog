@@ -1,0 +1,41 @@
+{{ define "main" }}
+  {{ $pages := .Pages }}
+  {{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+    {{ $pages = .Pages.ByDate.Reverse }}
+  {{ end }}
+  {{ $paginator := .Paginate $pages }}
+
+  <div class="mag-wrapper">
+
+  {{ if and (eq .Kind "term") (eq .Data.Singular "tag") }}
+    <div class="mag-list-header">
+      <h1><i class="fa fa-tag fa-fw"></i> {{ .Title }} <span class="mag-list-count">{{ len $pages }}</span></h1>
+    </div>
+  {{ else if and (eq .Kind "term") (eq .Data.Singular "category") }}
+    <div class="mag-list-header">
+      <h1><i class="far fa-folder-open fa-fw"></i> {{ .Title }} <span class="mag-list-count">{{ len $pages }}</span></h1>
+    </div>
+  {{ else }}
+    <div class="mag-list-header">
+      <h1>{{ .Title }}</h1>
+    </div>
+  {{ end }}
+
+  {{ if and .Content (not (or (eq .Kind "taxonomy") (eq .Kind "term"))) }}
+    <article class="px-1" data-toc="false">
+      <div class="content">
+        {{ .Content }}
+      </div>
+    </article>
+  {{ else }}
+    <div class="mag-grid mag-grid-3">
+      {{ range $paginator.Pages }}
+        {{ partial "magazine-card.html" . }}
+      {{ end }}
+    </div>
+
+    {{ partial "pagination.html" $paginator }}
+  {{ end }}
+
+  </div>
+{{ end }}

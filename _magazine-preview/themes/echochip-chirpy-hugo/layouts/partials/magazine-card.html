@@ -1,0 +1,12 @@
+{{ $img := "" }}
+{{ with .Params.cover }}{{ with .image }}{{ $img = . }}{{ end }}{{ end }}
+{{ if not $img }}{{ with .Params.image }}{{ $img = . }}{{ end }}{{ end }}
+<a href="{{ .RelPermalink }}" class="mag-card">
+  <div class="mag-card-media"{{ if $img }} style="background-image:url('{{ $img }}');"{{ end }}>
+    {{ with .Params.categories }}<span class="mag-card-badge">{{ index . 0 }}</span>{{ end }}
+  </div>
+  <div class="mag-card-body">
+    <h3 class="mag-card-title">{{ .Title }}</h3>
+    <span class="mag-card-date">{{ .Date.Format "01.02" }}</span>
+  </div>
+</a>
