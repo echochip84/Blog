@@ -10,9 +10,9 @@ categories: ["정리의 첫걸음"]
 tags: ["소비습관", "물건 줄이기", "미니멀라이프"]
 author: "편집팀"
 cover:
-  image: "https://images.unsplash.com/photo-1773499129466-b80be4adc319?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-  alt: "장식 상자와 소품이 빼곡히 쌓인 수납 선반"
-  caption: "Photo by [Tasha Kostyuk](https://unsplash.com/@tashakostyuk?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
+  image: "https://images.unsplash.com/photo-1572810677431-9a662da8d284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxjbHV0dGVyZWQlMjBzaG9wcGluZyUyMGJhZ3MlMjBob21lfGVufDB8MHx8fDE3ODM3MzM3NTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "삼베 토트백 안에 싱그러운 초록 식물이 담겨 있는 모습"
+  caption: "Photo by [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "tl-0014"
 funnel_type: "문제해결"
 schema_type: "Article"
