@@ -9,7 +9,10 @@ draft: false
 categories: ["냄새 얼룩 해결"]
 tags: ["문제해결", "소재"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1585417238790-f6d290d6490c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8MXx8Y2xlYW5pbmclMjBzdGFpbmVkJTIwY2xvdGh8ZW58MHwwfHx8MTc4NDI2NjAwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "세제 병 옆에서 파란색 청소용 천을 손에 든 청소 장면"
+  caption: "Photo by [Anton](https://unsplash.com/@uniqueton?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hcr-0102"
 funnel_type: "문제해결"
 schema_type: "Article"

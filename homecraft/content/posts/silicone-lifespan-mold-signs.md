@@ -9,7 +9,10 @@ draft: false
 categories: ["욕실 관리 루틴"]
 tags: ["곰팡이", "교체주기", "기본기"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1717497043540-d45bf85e5d38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8MXx8Y2F1bGtpbmclMjBiYXRodHViJTIwZWRnZXxlbnwwfDB8fHwxNzg0MjY2MDA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "욕조와 초록 식물이 놓인 밝고 아늑한 욕실 전경"
+  caption: "Photo by [Vije Vijendranath](https://unsplash.com/@vijev?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hcr-0117"
 funnel_type: "입문교육"
 schema_type: "Article"
