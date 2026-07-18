@@ -9,7 +9,10 @@ draft: false
 categories: ["냄새 얼룩 해결"]
 tags: ["문제해결", "소재"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1594040226829-7f251ab46d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjbGVhbmluZyUyMHdvb2wlMjBhcmVhJTIwcnVnfGVufDB8MHx8fDE3ODQzMDM3NzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "파란색 청바지를 입은 사람이 흰색·파란색·빨간색 러그 위에 서 있는 모습"
+  caption: "Photo by [Sina Saadatmand](https://unsplash.com/@sinasaadatmand?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "hcr-0101"
 funnel_type: "문제해결"
 schema_type: "Article"
