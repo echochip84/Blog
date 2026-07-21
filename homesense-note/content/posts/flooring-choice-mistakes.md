@@ -7,7 +7,7 @@ date: 2026-07-15T08:51:22+09:00
 lastmod: 2026-07-14
 draft: false
 categories: ["제품 추천"]
-tags: ["바닥재", "선택실수"]
+tags: ["자재선택", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1504979128236-23f86972356c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxkYW1hZ2VkJTIwd29vZGVuJTIwZmxvb3IlMjBwbGFua3N8ZW58MHwwfHx8MTc4Mzk4ODY5N3ww&ixlib=rb-4.1.0&q=80&w=1080"

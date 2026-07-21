@@ -7,7 +7,7 @@ date: 2026-07-19T15:57:32+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["제품 추천"]
-tags: ["친환경자재", "효과확인"]
+tags: ["자재선택", "하자보수"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1634672652995-ee7525bce595?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxlY28lMjBmcmllbmRseSUyMHdvb2QlMjBzYW1wbGVzfGVufDB8MHx8fDE3ODQyNDQ3Njh8MA&ixlib=rb-4.1.0&q=80&w=1080"

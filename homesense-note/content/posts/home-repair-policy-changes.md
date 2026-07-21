@@ -7,7 +7,7 @@ date: 2026-07-21T08:50:28+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["최신 정보"]
-tags: ["정책변경", "집수리"]
+tags: ["정부지원", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxob21lJTIwcmVub3ZhdGlvbiUyMGdvdmVybm1lbnQlMjBmb3JtfGVufDB8MHx8fDE3ODQzNDQ1Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"

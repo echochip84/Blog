@@ -7,7 +7,7 @@ date: 2026-07-11T08:23:57+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["제품 추천"]
-tags: ["시스템창호", "창호비교"]
+tags: ["자재선택"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1751486403820-7cf45ebec080?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxkb3VibGUlMjBnbGF6ZWQlMjB3aW5kb3clMjBmcmFtZXxlbnwwfDB8fHwxNzgzNzI2Mjc1fDA&ixlib=rb-4.1.0&q=80&w=1080"

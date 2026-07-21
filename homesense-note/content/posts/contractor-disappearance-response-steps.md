@@ -7,7 +7,7 @@ date: 2026-07-13T08:47:37+09:00
 lastmod: 2026-07-12
 draft: false
 categories: ["업체 견적"]
-tags: ["대응순서", "업체분쟁"]
+tags: ["하자보수", "계약·분쟁"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1570101945621-945409a6370f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHx1bmFuc3dlcmVkJTIwc21hcnRwaG9uZSUyMGNhbGx8ZW58MHwwfHx8MTc4Mzg1NTg2Mnww&ixlib=rb-4.1.0&q=80&w=1080"

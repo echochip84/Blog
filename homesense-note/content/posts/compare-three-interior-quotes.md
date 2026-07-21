@@ -7,7 +7,7 @@ date: 2026-07-17T09:43:04+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["업체 견적"]
-tags: ["견적비교", "업체견적"]
+tags: ["비용·견적"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1562564055-71e051d33c19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxjb21wYXJpbmclMjBwYXBlciUyMGRvY3VtZW50cyUyMGRlc2t8ZW58MHwwfHx8MTc4NDE2MTEyN3ww&ixlib=rb-4.1.0&q=80&w=1080"

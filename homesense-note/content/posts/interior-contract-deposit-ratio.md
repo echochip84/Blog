@@ -7,7 +7,7 @@ date: 2026-07-07T09:00:00+09:00
 lastmod: 2026-07-07
 draft: false
 categories: ["업체 견적"]
-tags: ["계약금", "비용"]
+tags: ["계약·분쟁", "비용·견적"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

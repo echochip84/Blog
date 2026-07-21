@@ -7,7 +7,7 @@ date: 2026-07-10T17:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["최신 정보"]
-tags: ["법령개정", "하자보증"]
+tags: ["정부지원", "하자보수"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1589330694653-ded6df03f754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxjb25zdHJ1Y3Rpb24lMjB3YXJyYW50eSUyMGxlZ2FsJTIwZG9jdW1lbnR8ZW58MHwwfHx8MTc4MzY2NDE4NHww&ixlib=rb-4.1.0&q=80&w=1080"

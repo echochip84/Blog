@@ -7,7 +7,7 @@ date: 2026-07-09T09:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["셀프 수리"]
-tags: ["셀프수리", "실패비용"]
+tags: ["셀프수리", "비용·견적"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxkYW1hZ2VkJTIwd2FsbCUyMHJlbm92YXRpb24lMjB1bmZpbmlzaGVkfGVufDB8MHx8fDE3ODM2MjgyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"

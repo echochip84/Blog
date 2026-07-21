@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["업체 견적"]
-tags: ["계약서", "체크리스트"]
+tags: ["계약·분쟁", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1611619899256-5e61d4c46df9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxzaWduaW5nJTIwY29udHJhY3QlMjB3aXRoJTIwcGVufGVufDB8MHx8fDE3ODQ2MjAxNDh8MA&ixlib=rb-4.1.0&q=80&w=1080"

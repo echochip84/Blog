@@ -7,7 +7,7 @@ date: 2026-07-13T09:03:00+09:00
 lastmod: 2026-07-12
 draft: false
 categories: ["제품 추천"]
-tags: ["붙박이장", "시스템옷장"]
+tags: ["공간인테리어"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1630904989936-da6328c2f92d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxvcmdhbml6ZWQlMjB3YXJkcm9iZSUyMGludGVyaW9yfGVufDB8MHx8fDE3ODM4NTU4NjR8MA&ixlib=rb-4.1.0&q=80&w=1080"

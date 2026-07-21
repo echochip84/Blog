@@ -7,7 +7,7 @@ date: 2026-07-20T17:09:35+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["제품 추천"]
-tags: ["도어비교", "히든도어"]
+tags: ["자재선택"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1610380123149-fba11fb20792?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxmbHVzaCUyMGhpZGRlbiUyMHdhbGwlMjBkb29yfGVufDB8MHx8fDE3ODQzNDQ3MjR8MA&ixlib=rb-4.1.0&q=80&w=1080"

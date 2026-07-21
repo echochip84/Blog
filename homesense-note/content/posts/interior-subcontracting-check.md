@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["업체 견적"]
-tags: ["업체구조", "하도급"]
+tags: ["시공업체", "계약·분쟁"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxjb250cmFjdCUyMHNpZ25pbmclMjBoYW5kc2hha2V8ZW58MHwwfHx8MTc4NDYwNDY0N3ww&ixlib=rb-4.1.0&q=80&w=1080"

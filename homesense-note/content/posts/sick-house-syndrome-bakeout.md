@@ -7,7 +7,7 @@ date: 2026-07-21T09:04:28+09:00
 lastmod: 2026-07-12
 draft: false
 categories: ["기타"]
-tags: ["건강", "새집증후군"]
+tags: ["인테리어기초", "하자보수"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1534175262708-ebf71ac916c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxvcGVuaW5nJTIwd2luZG93JTIwdmVudGlsYXRpb24lMjBob21lfGVufDB8MHx8fDE3ODM4NTU4NzR8MA&ixlib=rb-4.1.0&q=80&w=1080"

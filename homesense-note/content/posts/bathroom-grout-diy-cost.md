@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["셀프 수리"]
-tags: ["셀프수리", "줄눈", "타일"]
+tags: ["셀프수리", "자재선택"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1747729495628-e38c438f619b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxhcHBseWluZyUyMGdyb3V0JTIwYmF0aHJvb20lMjB0aWxlfGVufDB8MHx8fDE3ODQ2MjAxNTR8MA&ixlib=rb-4.1.0&q=80&w=1080"

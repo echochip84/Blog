@@ -7,7 +7,7 @@ date: 2026-07-07T12:00:00+09:00
 lastmod: 2026-07-07
 draft: false
 categories: ["업체 견적"]
-tags: ["저가견적", "업체선정", "주의"]
+tags: ["시공업체", "비용·견적", "인테리어기초"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1601143497368-0d3eeeef02eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

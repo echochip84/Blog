@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["하자 대응"]
-tags: ["기간", "하자보증"]
+tags: ["인테리어기초", "하자보수"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1505798577917-a65157d3320a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjb250cmFjdG9yJTIwaW5zcGVjdGluZyUyMGhvbWUlMjBkZWZlY3R8ZW58MHwwfHx8MTc4NDYwNDY0Mnww&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-18T09:47:37+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["하자 대응"]
-tags: ["누수", "새시", "책임소재"]
+tags: ["하자보수", "자재선택", "계약·분쟁"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1558047397-6b04742fbcf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxjb25kZW5zYXRpb24lMjBvbiUyMHdpbmRvd3xlbnwwfDB8fHwxNzg0MjQ0NzY2fDA&ixlib=rb-4.1.0&q=80&w=1080"

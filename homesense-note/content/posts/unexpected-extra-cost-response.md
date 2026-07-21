@@ -7,7 +7,7 @@ date: 2026-07-07T10:00:00+09:00
 lastmod: 2026-07-07
 draft: false
 categories: ["업체 견적"]
-tags: ["견적서", "추가비용", "대처법"]
+tags: ["비용·견적", "하자보수"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1554224155-cfa08c2a758f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

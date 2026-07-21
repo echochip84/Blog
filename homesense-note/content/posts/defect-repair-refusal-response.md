@@ -7,7 +7,7 @@ date: 2026-07-11T08:25:57+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["하자 대응"]
-tags: ["대응법", "분쟁", "하자보수"]
+tags: ["하자보수", "계약·분쟁"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1551101674-0ac7887568cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHx3YWxsJTIwY3JhY2slMjBkZWZlY3QlMjByZXBhaXJ8ZW58MHwwfHx8MTc4MzcyNjI3M3ww&ixlib=rb-4.1.0&q=80&w=1080"

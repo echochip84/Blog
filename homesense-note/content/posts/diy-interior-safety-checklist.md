@@ -7,7 +7,7 @@ date: 2026-07-21T09:09:28+09:00
 lastmod: 2026-07-14
 draft: false
 categories: ["입문 교실"]
-tags: ["셀프인테리어", "안전", "체크리스트"]
+tags: ["셀프수리", "하자보수", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1676311396794-f14881e9daaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxkaXklMjBob21lJTIwcmVub3ZhdGlvbiUyMHRvb2xzfGVufDB8MHx8fDE3ODM5ODg3MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"

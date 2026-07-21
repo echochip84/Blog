@@ -7,7 +7,7 @@ date: 2026-07-10T18:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["기타"]
-tags: ["공기청정기", "환기"]
+tags: ["가전제품", "하자보수"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1625085300033-e9757a9af4b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxhaXIlMjBwdXJpZmllciUyMG9wZW4lMjB3aW5kb3d8ZW58MHwwfHx8MTc4MzY2NDE4NXww&ixlib=rb-4.1.0&q=80&w=1080"

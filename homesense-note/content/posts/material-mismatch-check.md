@@ -7,7 +7,7 @@ date: 2026-07-18T09:36:58+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["업체 견적"]
-tags: ["견적", "대응", "자재"]
+tags: ["비용·견적", "하자보수", "자재선택"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1627882206813-8c1ffd86efec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxzdGFja2VkJTIwYnVpbGRpbmclMjBtYXRlcmlhbHN8ZW58MHwwfHx8MTc4NDI0NDc2NHww&ixlib=rb-4.1.0&q=80&w=1080"

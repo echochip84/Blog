@@ -7,7 +7,7 @@ date: 2026-07-04T11:00:00+09:00
 lastmod: 2026-07-04
 draft: false
 categories: ["입문 교실"]
-tags: ["인테리어", "용어", "입문"]
+tags: ["인테리어기초"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1433840496881-cbd845929862?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxpbnRlcmlvciUyMHJlbm92YXRpb24lMjBibHVlcHJpbnQlMjB0b29sc3xlbnwwfDB8fHwxNzgzNjI4MTE1fDA&ixlib=rb-4.1.0&q=80&w=1200"

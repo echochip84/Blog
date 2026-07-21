@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["제품 추천"]
-tags: ["붙박이가구", "선택주의"]
+tags: ["자재선택", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1649361811423-a55616f7ab11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxidWlsdC1pbiUyMHdhcmRyb2JlJTIwY2FiaW5ldCUyMGludGVyaW9yfGVufDB8MHx8fDE3ODQ2MjAxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080"

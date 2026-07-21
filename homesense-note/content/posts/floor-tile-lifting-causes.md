@@ -7,7 +7,7 @@ date: 2026-07-18T09:44:15+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["하자 대응"]
-tags: ["들뜸", "타일", "하자"]
+tags: ["하자보수", "자재선택"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1690275392883-d10021dfe670?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxjcmFja2VkJTIwbGlmdGVkJTIwZmxvb3IlMjB0aWxlfGVufDB8MHx8fDE3ODQxNjExMjl8MA&ixlib=rb-4.1.0&q=80&w=1080"

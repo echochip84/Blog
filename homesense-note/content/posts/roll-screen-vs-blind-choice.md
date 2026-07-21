@@ -7,7 +7,7 @@ date: 2026-07-17T09:26:32+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["제품 추천"]
-tags: ["롤스크린", "블라인드"]
+tags: ["공간인테리어"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1584574551194-97e2bb555d41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHx3aW5kb3clMjBibGluZHMlMjBjbG9zZSUyMHVwfGVufDB8MHx8fDE3ODQxNjExMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"

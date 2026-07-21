@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["기타"]
-tags: ["벌레", "예방법"]
+tags: ["하자보수", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1762186540963-efa1702b3379?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxhbnQlMjBjcmF3bGluZyUyMGtpdGNoZW4lMjBjb3VudGVyfGVufDB8MHx8fDE3ODQ2MjAxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080"

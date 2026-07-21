@@ -7,7 +7,7 @@ date: 2026-07-06T18:00:00+09:00
 lastmod: 2026-07-06
 draft: false
 categories: ["입문 교실"]
-tags: ["기초", "단열", "단열재"]
+tags: ["인테리어기초", "자재선택"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1607400201889-565b1ee75f8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

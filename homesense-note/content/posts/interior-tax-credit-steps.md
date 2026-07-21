@@ -7,7 +7,7 @@ date: 2026-07-15T08:52:22+09:00
 lastmod: 2026-07-12
 draft: false
 categories: ["최신 정보"]
-tags: ["세액공제", "신청절차"]
+tags: ["정부지원"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxmaWxsaW5nJTIwdGF4JTIwZG9jdW1lbnRzJTIwZGVza3xlbnwwfDB8fHwxNzgzODU1ODY3fDA&ixlib=rb-4.1.0&q=80&w=1080"

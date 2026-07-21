@@ -7,7 +7,7 @@ date: 2026-07-11T15:32:43+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["업체 견적"]
-tags: ["검증", "선정", "업체후기"]
+tags: ["인테리어기초", "시공업체"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjByZWFkaW5nJTIwcGhvbmUlMjByZXZpZXdzfGVufDB8MHx8fDE3ODM3NTIxMjR8MA&ixlib=rb-4.1.0&q=80&w=1080"

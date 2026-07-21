@@ -7,7 +7,7 @@ date: 2026-07-06T09:00:00+09:00
 lastmod: 2026-07-06
 draft: false
 categories: ["입문 교실"]
-tags: ["A/S", "보증", "하자보수"]
+tags: ["인테리어기초", "하자보수"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1505798577917-a65157d3320a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

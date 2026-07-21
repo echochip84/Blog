@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["셀프 수리"]
-tags: ["셀프수리", "수전교체"]
+tags: ["셀프수리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1542855368-ca6ea825bca2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxyZXBsYWNpbmclMjBmYXVjZXQlMjBoZWFkfGVufDB8MHx8fDE3ODQ2MDQ2NTN8MA&ixlib=rb-4.1.0&q=80&w=1080"

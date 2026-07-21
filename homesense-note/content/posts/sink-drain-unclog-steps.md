@@ -7,7 +7,7 @@ date: 2026-07-21T09:03:28+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["셀프 수리"]
-tags: ["배수구", "셀프수리", "싱크대"]
+tags: ["하자보수", "셀프수리", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1654440122140-f1fc995ddb34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxraXRjaGVuJTIwc2luayUyMHBsdW5nZXIlMjB0b29sc3xlbnwwfDB8fHwxNzg0MzQ0NTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080"

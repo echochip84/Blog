@@ -7,7 +7,7 @@ date: 2026-07-09T09:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["하자 대응"]
-tags: ["배관누수", "확인법"]
+tags: ["하자보수", "인테리어기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1526898943670-92bfa9f94c12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHx3YXRlciUyMHBpcGUlMjBsZWFrJTIwaW5zcGVjdGlvbnxlbnwwfDB8fHwxNzgzNjI4MjMyfDA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-11T08:30:57+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["제품 추천"]
-tags: ["실크벽지", "합지벽지"]
+tags: ["자재선택"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1682587367941-8ee68f4389c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHx3YWxscGFwZXIlMjB0ZXh0dXJlJTIwc2FtcGxlc3xlbnwwfDB8fHwxNzgzNzI2Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080"

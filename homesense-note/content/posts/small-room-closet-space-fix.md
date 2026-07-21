@@ -7,7 +7,7 @@ date: 2026-07-21T08:57:28+09:00
 lastmod: 2026-07-12
 draft: false
 categories: ["공간 인테리어"]
-tags: ["옷장", "작은방"]
+tags: ["공간인테리어"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1723258343008-77a92925fcd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMHJvb20lMjBzdG9yYWdlJTIwc29sdXRpb258ZW58MHwwfHx8MTc4Mzg1NTg3Mnww&ixlib=rb-4.1.0&q=80&w=1080"

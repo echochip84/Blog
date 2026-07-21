@@ -7,7 +7,7 @@ date: 2026-07-06T10:00:00+09:00
 lastmod: 2026-07-06
 draft: false
 categories: ["입문 교실"]
-tags: ["공사", "기초", "철거"]
+tags: ["시공업체", "인테리어기초"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1616551569669-b60598758c4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

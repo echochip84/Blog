@@ -7,7 +7,7 @@ date: 2026-07-20T16:07:05+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["제품 추천"]
-tags: ["몰딩비교", "무몰딩"]
+tags: ["자재선택"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1550814017-e5ef61d6f0ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxjbGVhbiUyMG1pbmltYWwlMjB3YWxsJTIwY2VpbGluZyUyMGpvaW50fGVufDB8MHx8fDE3ODQyNDQ3NzR8MA&ixlib=rb-4.1.0&q=80&w=1080"

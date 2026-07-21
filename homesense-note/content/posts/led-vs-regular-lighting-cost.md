@@ -7,7 +7,7 @@ date: 2026-07-14T09:13:01+09:00
 lastmod: 2026-07-12
 draft: false
 categories: ["제품 추천"]
-tags: ["LED조명", "조명비교"]
+tags: ["공간인테리어"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1590845947670-c009801ffa74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxsaWdodCUyMGJ1bGIlMjBicmlnaHRuZXNzJTIwY29tcGFyaXNvbnxlbnwwfDB8fHwxNzgzODU1ODY2fDA&ixlib=rb-4.1.0&q=80&w=1080"

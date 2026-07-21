@@ -7,7 +7,7 @@ date: 2026-07-20T14:54:31+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["하자 대응"]
-tags: ["균열", "재발", "점검"]
+tags: ["하자보수"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1768839725085-829e6ac7ac26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxob21lJTIwd2FsbCUyMHJlcGFpcnxlbnwwfDB8fHwxNzg0MjQ2NTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"

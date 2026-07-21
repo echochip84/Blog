@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["공간 인테리어"]
-tags: ["신혼집", "인테리어"]
+tags: ["공간인테리어", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1758523670969-dd1b1254062d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHx5b3VuZyUyMGNvdXBsZSUyMGRlY29yYXRpbmclMjBhcGFydG1lbnR8ZW58MHwwfHx8MTc4NDYyMDE1Nnww&ixlib=rb-4.1.0&q=80&w=1080"

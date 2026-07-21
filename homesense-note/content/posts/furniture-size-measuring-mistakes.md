@@ -7,7 +7,7 @@ date: 2026-07-21T08:54:28+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["제품 추천"]
-tags: ["수납가구", "사이즈실수"]
+tags: ["시공업체", "자재선택"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1523901839036-a3030662f220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxtZWFzdXJpbmclMjBjYWJpbmV0JTIwd2l0aCUyMHRhcGV8ZW58MHwwfHx8MTc4NDM0NDU0MXww&ixlib=rb-4.1.0&q=80&w=1080"

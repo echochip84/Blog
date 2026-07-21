@@ -7,7 +7,7 @@ date: 2026-07-11T15:40:43+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["업체 견적"]
-tags: ["부분시공", "종합인테리어"]
+tags: ["시공업체"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1562259949-e8e7689d7828?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxwYWludCUyMHJvbGxlciUyMGRyeXdhbGx8ZW58MHwwfHx8MTc4Mzc1MjEyN3ww&ixlib=rb-4.1.0&q=80&w=1080"

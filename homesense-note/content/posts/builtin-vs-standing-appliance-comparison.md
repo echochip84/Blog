@@ -7,7 +7,7 @@ date: 2026-07-09T09:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["기타"]
-tags: ["가전비교", "빌트인가전"]
+tags: ["가전제품"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1484154218962-a197022b5858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBraXRjaGVuJTIwYnVpbHQtaW4lMjBhcHBsaWFuY2VzfGVufDB8MHx8fDE3ODM1OTkyNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"

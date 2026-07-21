@@ -7,7 +7,7 @@ date: 2026-07-11T15:34:43+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["제품 추천"]
-tags: ["MDF가구", "원목가구"]
+tags: ["자재선택"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1544691560-fc2053d97726?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHx3b29kZW4lMjBmdXJuaXR1cmUlMjBjbG9zZSUyMHVwfGVufDB8MHx8fDE3ODM3NTIxMjl8MA&ixlib=rb-4.1.0&q=80&w=1080"

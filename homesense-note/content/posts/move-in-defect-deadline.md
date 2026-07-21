@@ -7,7 +7,7 @@ date: 2026-07-19T15:53:44+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["하자 대응"]
-tags: ["기한", "하자신고"]
+tags: ["인테리어기초", "정부지원"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1551101674-0ac7887568cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxjcmFja2VkJTIwd2FsbCUyMGNvcm5lciUyMGRlZmVjdHxlbnwwfDB8fHwxNzg0MjQ0NzY2fDA&ixlib=rb-4.1.0&q=80&w=1080"

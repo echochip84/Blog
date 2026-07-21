@@ -7,7 +7,7 @@ date: 2026-07-16T09:19:16+09:00
 lastmod: 2026-07-12
 draft: false
 categories: ["하자 대응"]
-tags: ["가이드", "청구절차", "하자보수"]
+tags: ["인테리어기초", "정부지원", "하자보수"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1690275392883-d10021dfe670?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxpbnNwZWN0aW5nJTIwd2FsbCUyMGNyYWNrfGVufDB8MHx8fDE3ODM4NTU4Njh8MA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-21T09:05:28+09:00
 lastmod: 2026-07-14
 draft: false
 categories: ["기타"]
-tags: ["인테리어", "트렌드"]
+tags: ["인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1631679706909-1844bbd07221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzdHlsaXNoJTIwdHJlbmR5JTIwbGl2aW5nJTIwcm9vbXxlbnwwfDB8fHwxNzgzOTg4NzA1fDA&ixlib=rb-4.1.0&q=80&w=1080"

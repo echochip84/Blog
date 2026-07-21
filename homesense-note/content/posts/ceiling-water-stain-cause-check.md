@@ -7,7 +7,7 @@ date: 2026-07-10T11:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["하자 대응"]
-tags: ["누수", "원인", "천장"]
+tags: ["하자보수", "인테리어기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1693933384373-6ca10eae4912?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHx3YXRlciUyMHN0YWluJTIwY2VpbGluZ3xlbnwwfDB8fHwxNzgzNjY0MTgwfDA&ixlib=rb-4.1.0&q=80&w=1080"

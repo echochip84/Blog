@@ -7,7 +7,7 @@ date: 2026-07-20T13:48:09+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["최신 정보"]
-tags: ["단열지원", "에너지바우처"]
+tags: ["정부지원"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1768321910174-6f55899299a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxpbnN0YWxsaW5nJTIwd2FsbCUyMGluc3VsYXRpb24lMjBmb2FtfGVufDB8MHx8fDE3ODQyNDQ3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"

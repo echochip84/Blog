@@ -7,7 +7,7 @@ date: 2026-07-11T08:28:57+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["입문 교실"]
-tags: ["상담", "업체미팅", "체크리스트"]
+tags: ["시공업체", "인테리어기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1754039985008-a15410211b67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxpbnRlcmlvciUyMGRlc2lnbiUyMG1lZXRpbmclMjBjaGVja2xpc3QlMjBwbGFubmluZ3xlbnwwfDB8fHwxNzgzNzM3OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080"

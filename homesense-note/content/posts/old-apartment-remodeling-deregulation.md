@@ -7,7 +7,7 @@ date: 2026-07-19T16:01:18+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["최신 정보"]
-tags: ["규제완화", "노후아파트"]
+tags: ["정부지원", "공간인테리어"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1516069429726-51d80d545cbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxhZ2VkJTIwY29uY3JldGUlMjBhcGFydG1lbnQlMjBmYWNhZGV8ZW58MHwwfHx8MTc4NDI0NDc3MHww&ixlib=rb-4.1.0&q=80&w=1080"

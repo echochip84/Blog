@@ -7,7 +7,7 @@ date: 2026-07-21T08:51:28+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["하자 대응"]
-tags: ["대처법", "바람", "창호"]
+tags: ["하자보수", "인테리어기초", "자재선택"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1751486403820-7cf45ebec080?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjb2xkJTIwZHJhZnQlMjB0aHJvdWdoJTIwd2luZG93JTIwZnJhbWV8ZW58MHwwfHx8MTc4NDM0NDUzOHww&ixlib=rb-4.1.0&q=80&w=1080"

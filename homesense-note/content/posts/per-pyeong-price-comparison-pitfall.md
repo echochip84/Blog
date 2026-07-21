@@ -7,7 +7,7 @@ date: 2026-07-07T13:00:00+09:00
 lastmod: 2026-07-07
 draft: false
 categories: ["업체 견적"]
-tags: ["평당단가", "견적비교"]
+tags: ["비용·견적"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1626266061368-46a8f578ddd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-21T08:58:28+09:00
 lastmod: 2026-07-14
 draft: false
 categories: ["공간 인테리어"]
-tags: ["인테리어", "채광"]
+tags: ["인테리어기초", "공간인테리어"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1554049264-8ff0bee7eacd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxtaXJyb3IlMjByZWZsZWN0aW5nJTIwbGlnaHQlMjByb29tfGVufDB8MHx8fDE3ODM5ODg3MDN8MA&ixlib=rb-4.1.0&q=80&w=1080"

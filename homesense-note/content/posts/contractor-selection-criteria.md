@@ -7,7 +7,7 @@ date: 2026-07-20T12:18:48+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["업체 견적"]
-tags: ["가이드", "견적비교", "업체선정"]
+tags: ["인테리어기초", "비용·견적", "시공업체"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxjb21wYXJpbmclMjBjb250cmFjdG9yJTIwcXVvdGVzJTIwcGFwZXJ8ZW58MHwwfHx8MTc4NDI0NDc3MXww&ixlib=rb-4.1.0&q=80&w=1080"

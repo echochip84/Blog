@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["하자 대응"]
-tags: ["결로", "곰팡이", "예방"]
+tags: ["하자보수", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1558047397-6b04742fbcf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxjb25kZW5zYXRpb24lMjB3YXRlciUyMG9uJTIwd2luZG93fGVufDB8MHx8fDE3ODQ2MjAxNTN8MA&ixlib=rb-4.1.0&q=80&w=1080"

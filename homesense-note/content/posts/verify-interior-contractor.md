@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["업체 견적"]
-tags: ["업체검증", "체크리스트"]
+tags: ["시공업체", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1562564055-71e051d33c19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxyZXZpZXdpbmclMjBjb250cmFjdCUyMGRvY3VtZW50c3xlbnwwfDB8fHwxNzg0NjA0NjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080"

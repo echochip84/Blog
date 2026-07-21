@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["제품 추천"]
-tags: ["발포벽지", "합지벽지"]
+tags: ["자재선택"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1613714947641-b294147a54a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHx0ZXh0dXJlZCUyMHdhbGxwYXBlciUyMGNsb3NlJTIwdXB8ZW58MHwwfHx8MTc4NDYwNDY0Nnww&ixlib=rb-4.1.0&q=80&w=1080"

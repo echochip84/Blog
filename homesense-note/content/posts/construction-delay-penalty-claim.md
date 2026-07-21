@@ -7,7 +7,7 @@ date: 2026-07-07T11:00:00+09:00
 lastmod: 2026-07-07
 draft: false
 categories: ["업체 견적"]
-tags: ["공사지연", "위약금", "분쟁"]
+tags: ["시공업체", "계약·분쟁"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1456574808786-d2ba7a6aa654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

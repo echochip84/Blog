@@ -7,7 +7,7 @@ date: 2026-07-10T10:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["업체 견적"]
-tags: ["선택기준", "업체비교"]
+tags: ["인테리어기초", "시공업체"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1505798577917-a65157d3320a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjb250cmFjdG9yJTIwbWVldGluZyUyMGhvbWVvd25lcnxlbnwwfDB8fHwxNzgzNjY0MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080"

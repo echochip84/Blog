@@ -7,7 +7,7 @@ date: 2026-07-11T08:26:57+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["공간 인테리어"]
-tags: ["수납", "주방"]
+tags: ["공간인테리어"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1556910096-6f5e72db6803?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxraXRjaGVuJTIwc3RvcmFnZSUyMG9yZ2FuaXphdGlvbnxlbnwwfDB8fHwxNzgzNzI2Mjc1fDA&ixlib=rb-4.1.0&q=80&w=1080"

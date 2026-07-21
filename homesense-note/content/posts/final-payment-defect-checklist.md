@@ -7,7 +7,7 @@ date: 2026-07-11T15:39:43+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["입문 교실"]
-tags: ["준공", "체크리스트", "하자점검"]
+tags: ["정부지원", "인테리어기초", "하자보수"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1761558794306-466448dab4bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxjbGlwYm9hcmQlMjBjaGVja2xpc3QlMjBpbnNwZWN0aW9ufGVufDB8MHx8fDE3ODM3NTIxMzl8MA&ixlib=rb-4.1.0&q=80&w=1080"

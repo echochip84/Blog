@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["제품 추천"]
-tags: ["선택실수", "조명"]
+tags: ["인테리어기초", "공간인테리어"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1759109220887-6768eda42293?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHx3YXJtJTIwcGVuZGFudCUyMGxpZ2h0JTIwbGl2aW5nJTIwcm9vbXxlbnwwfDB8fHwxNzg0NjIwMTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"

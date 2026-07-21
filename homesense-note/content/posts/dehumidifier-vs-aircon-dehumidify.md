@@ -7,7 +7,7 @@ date: 2026-07-11T08:27:57+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["기타"]
-tags: ["습도관리", "제습기"]
+tags: ["하자보수", "가전제품"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1651407825746-f7a3ded5b07a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxkZWh1bWlkaWZpZXIlMjBsaXZpbmclMjByb29tfGVufDB8MHx8fDE3ODM3MjYyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-09T09:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["제품 추천"]
-tags: ["강마루", "강화마루"]
+tags: ["자재선택"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1526479540275-62783538d64b?ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxkb2clMjB3b29kJTIwZmxvb3IlMjBob21lfGVufDB8MHx8fDE3ODM2MjgyMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"

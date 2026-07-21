@@ -7,7 +7,7 @@ date: 2026-07-11T08:24:57+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["최신 정보"]
-tags: ["노후주택", "지원금"]
+tags: ["공간인테리어", "정부지원"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1505901889250-5cd7cd813691?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxvbGQlMjBob3VzZSUyMHJlbm92YXRpb24lMjBleHRlcmlvcnxlbnwwfDB8fHwxNzgzNzI2Mjc2fDA&ixlib=rb-4.1.0&q=80&w=1080"

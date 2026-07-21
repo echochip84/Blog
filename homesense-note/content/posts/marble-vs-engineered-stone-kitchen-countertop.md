@@ -7,7 +7,7 @@ date: 2026-07-10T14:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["제품 추천"]
-tags: ["대리석", "주방상판"]
+tags: ["자재선택", "공간인테리어"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1556911220-bff31c812dba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxtYXJibGUlMjBraXRjaGVuJTIwY291bnRlcnRvcHxlbnwwfDB8fHwxNzgzNjY0MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080"

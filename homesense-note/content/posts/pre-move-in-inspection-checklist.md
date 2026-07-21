@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["하자 대응"]
-tags: ["입주전점검", "체크리스트"]
+tags: ["하자보수", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1753911371982-dc5cafcf855b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxpbnNwZWN0aW5nJTIwZW1wdHklMjBhcGFydG1lbnQlMjB3YWxsfGVufDB8MHx8fDE3ODQ2MjAxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080"

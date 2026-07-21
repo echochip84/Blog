@@ -7,7 +7,7 @@ date: 2026-07-11T08:29:57+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["업체 견적"]
-tags: ["인테리어플랫폼", "직접계약"]
+tags: ["시공업체", "계약·분쟁"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1562564055-71e051d33c19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxjb250cmFjdCUyMHNpZ25pbmclMjB0YWJsZXxlbnwwfDB8fHwxNzgzNzI2MjcyfDA&ixlib=rb-4.1.0&q=80&w=1080"

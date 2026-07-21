@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:28+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["공간 인테리어"]
-tags: ["시니어", "안전인테리어"]
+tags: ["공간인테리어", "하자보수"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1748196199595-76669010d7d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxlbGRlcmx5JTIwaGFuZCUyMG9uJTIwaGFuZHJhaWx8ZW58MHwwfHx8MTc4NDM0NDU0NHww&ixlib=rb-4.1.0&q=80&w=1080"

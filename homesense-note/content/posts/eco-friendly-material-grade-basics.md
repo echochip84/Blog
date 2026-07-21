@@ -7,7 +7,7 @@ date: 2026-07-06T11:00:00+09:00
 lastmod: 2026-07-06
 draft: false
 categories: ["입문 교실"]
-tags: ["자재등급", "친환경", "기초"]
+tags: ["인테리어기초", "자재선택"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1565599573128-ae3ef5c9f478?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

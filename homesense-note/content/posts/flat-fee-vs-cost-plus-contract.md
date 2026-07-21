@@ -7,7 +7,7 @@ date: 2026-07-09T09:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["업체 견적"]
-tags: ["실비정산제", "정액제"]
+tags: ["비용·견적", "정부지원"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1542621334-a254cf47733d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfGFsbHx8fHx8fHx8fDE3ODM2MjgzMTN8&ixlib=rb-4.1.0&q=80&w=1200"

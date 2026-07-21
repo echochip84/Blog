@@ -7,7 +7,7 @@ date: 2026-07-09T09:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["입문 교실"]
-tags: ["이사", "집수리", "체크리스트"]
+tags: ["인테리어기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1700727448575-6f1680cd7d75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8aG9tZSUyMHJlcGFpciUyMGluc3BlY3Rpb24lMjBjbGlwYm9hcmR8ZW58MHwwfHx8MTc4MzYwMDk3OXww&ixlib=rb-4.1.0&q=80&w=1080"

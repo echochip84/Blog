@@ -7,7 +7,7 @@ date: 2026-07-09T09:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["업체 견적"]
-tags: ["시공팀", "업체비교"]
+tags: ["시공업체"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1517581177682-a085bb7ffb15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxpbnRlcmlvciUyMHJlbm92YXRpb24lMjBhcGFydG1lbnQlMjBjb25zdHJ1Y3Rpb258ZW58MHwwfHx8MTc4MzU5OTg0NXww&ixlib=rb-4.1.0&q=80&w=1080"

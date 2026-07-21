@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["최신 정보"]
-tags: ["리모델링지원", "에너지효율"]
+tags: ["정부지원", "인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1604177420682-0c840feb01de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxlbmVyZ3klMjBlZmZpY2llbmN5JTIwbGFiZWwlMjBhcHBsaWFuY2V8ZW58MHwwfHx8MTc4NDYyMDE1MHww&ixlib=rb-4.1.0&q=80&w=1080"

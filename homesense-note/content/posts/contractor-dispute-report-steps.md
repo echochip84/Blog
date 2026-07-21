@@ -7,7 +7,7 @@ date: 2026-07-14T09:12:01+09:00
 lastmod: 2026-07-14
 draft: false
 categories: ["업체 견적"]
-tags: ["분쟁", "소비자보호", "신고절차"]
+tags: ["계약·분쟁", "정부지원"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxzaWduaW5nJTIwcGFwZXIlMjBkb2N1bWVudHMlMjBkZXNrfGVufDB8MHx8fDE3ODM5ODg2OTR8MA&ixlib=rb-4.1.0&q=80&w=1080"

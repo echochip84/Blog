@@ -7,7 +7,7 @@ date: 2026-07-15T08:53:22+09:00
 lastmod: 2026-07-14
 draft: false
 categories: ["업체 견적"]
-tags: ["대비", "부도", "폐업"]
+tags: ["인테리어기초", "계약·분쟁"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxoYW5kc2hha2UlMjBvdmVyJTIwYnVzaW5lc3MlMjBjb250cmFjdHxlbnwwfDB8fHwxNzgzOTg4Njk5fDA&ixlib=rb-4.1.0&q=80&w=1080"

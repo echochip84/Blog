@@ -7,7 +7,7 @@ date: 2026-07-17T09:41:04+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["최신 정보"]
-tags: ["공동주택", "장기수선충당금"]
+tags: ["공간인테리어", "정부지원"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1625225233840-695456021cde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxjYWxjdWxhdG9yJTIwd2l0aCUyMGRvY3VtZW50c3xlbnwwfDB8fHwxNzg0MTYxMTI2fDA&ixlib=rb-4.1.0&q=80&w=1080"

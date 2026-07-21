@@ -7,7 +7,7 @@ date: 2026-07-07T16:00:00+09:00
 lastmod: 2026-07-07
 draft: false
 categories: ["하자 대응"]
-tags: ["누수", "분쟁", "책임소재"]
+tags: ["하자보수", "계약·분쟁"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1770385589589-30cbe109a6dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

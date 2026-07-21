@@ -7,7 +7,7 @@ date: 2026-07-21T09:11:28+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["기타"]
-tags: ["미세먼지", "실내공기"]
+tags: ["하자보수"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1560185007-5f0bb1866cab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxhaXIlMjBwdXJpZmllciUyMGluJTIwbGl2aW5nJTIwcm9vbXxlbnwwfDB8fHwxNzg0MzQ0NTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"

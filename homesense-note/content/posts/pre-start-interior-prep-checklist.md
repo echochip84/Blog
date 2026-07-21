@@ -7,7 +7,7 @@ date: 2026-07-21T09:10:28+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["입문 교실"]
-tags: ["인테리어", "준비", "체크리스트"]
+tags: ["인테리어기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1601464723270-8867f191b1bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxtb29kYm9hcmQlMjBwYWludCUyMHN3YXRjaGVzJTIwZGVza3xlbnwwfDB8fHwxNzg0MTYxMTM1fDA&ixlib=rb-4.1.0&q=80&w=1080"

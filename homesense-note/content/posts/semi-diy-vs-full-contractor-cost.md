@@ -7,7 +7,7 @@ date: 2026-07-13T08:56:07+09:00
 lastmod: 2026-07-12
 draft: false
 categories: ["업체 견적"]
-tags: ["반셀프인테리어", "풀시공"]
+tags: ["셀프수리", "시공업체"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxob21lJTIwYnVkZ2V0JTIwY2FsY3VsYXRpb24lMjBkZXNrfGVufDB8MHx8fDE3ODM4NTU4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-21T08:55:28+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["최신 정보"]
-tags: ["리모델링", "세액공제"]
+tags: ["시공업체", "정부지원"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjYWxjdWxhdGluZyUyMHJlbm92YXRpb24lMjB0YXglMjByZWNlaXB0c3xlbnwwfDB8fHwxNzg0MzQ0NTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"

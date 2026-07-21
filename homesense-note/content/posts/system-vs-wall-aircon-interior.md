@@ -7,7 +7,7 @@ date: 2026-07-10T13:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["제품 추천"]
-tags: ["시스템에어컨", "에어컨"]
+tags: ["가전제품"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1560185009-dddeb820c7b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxjZWlsaW5nJTIwYWlyJTIwY29uZGl0aW9uZXIlMjBsaXZpbmclMjByb29tfGVufDB8MHx8fDE3ODM2NjQxODF8MA&ixlib=rb-4.1.0&q=80&w=1080"

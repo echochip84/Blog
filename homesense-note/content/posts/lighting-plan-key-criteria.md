@@ -7,7 +7,7 @@ date: 2026-07-21T09:12:28+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["입문 교실"]
-tags: ["기초", "인테리어", "조명"]
+tags: ["인테리어기초", "공간인테리어"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1475783006851-1d68dd683eff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHx3YXJtJTIwcGVuZGFudCUyMGxpZ2h0cyUyMGludGVyaW9yfGVufDB8MHx8fDE3ODQyNDQ3Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080"

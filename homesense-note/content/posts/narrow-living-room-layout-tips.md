@@ -7,7 +7,7 @@ date: 2026-07-09T09:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["공간 인테리어"]
-tags: ["거실", "공간활용"]
+tags: ["공간인테리어"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1616137422495-1e9e46e2aa77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxuYXJyb3clMjBsaXZpbmclMjByb29tJTIwZnVybml0dXJlJTIwbGF5b3V0fGVufDB8MHx8fDE3ODM2MjgyOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"

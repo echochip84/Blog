@@ -7,7 +7,7 @@ date: 2026-07-11T08:22:57+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["업체 견적"]
-tags: ["로컬업체", "브랜드인테리어"]
+tags: ["시공업체", "공간인테리어"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1778996369592-f8ea076da4eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxzaG93cm9vbSUyMGludGVyaW9yJTIwZGVzaWduZXJ8ZW58MHwwfHx8MTc4MzcyNjI3MXww&ixlib=rb-4.1.0&q=80&w=1080"

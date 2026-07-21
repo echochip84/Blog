@@ -7,7 +7,7 @@ date: 2026-07-07T15:00:00+09:00
 lastmod: 2026-07-07
 draft: false
 categories: ["하자 대응"]
-tags: ["균열", "안전진단"]
+tags: ["하자보수"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1573345173719-5fbd4783d3c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

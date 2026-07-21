@@ -7,7 +7,7 @@ date: 2026-07-11T15:41:43+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["최신 정보"]
-tags: ["그린리모델링", "보조금"]
+tags: ["정부지원"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1562564055-71e051d33c19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxzaWduaW5nJTIwZG9jdW1lbnQlMjBkZXNrfGVufDB8MHx8fDE3ODM3NTIxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080"

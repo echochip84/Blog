@@ -7,7 +7,7 @@ date: 2026-07-06T13:00:00+09:00
 lastmod: 2026-07-06
 draft: false
 categories: ["입문 교실"]
-tags: ["계약", "기초", "분쟁예방"]
+tags: ["계약·분쟁", "인테리어기초"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

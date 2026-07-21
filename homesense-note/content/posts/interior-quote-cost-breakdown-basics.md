@@ -7,7 +7,7 @@ date: 2026-07-06T16:00:00+09:00
 lastmod: 2026-07-06
 draft: false
 categories: ["입문 교실"]
-tags: ["견적", "기초", "비용구조"]
+tags: ["비용·견적", "인테리어기초"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1626266061368-46a8f578ddd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

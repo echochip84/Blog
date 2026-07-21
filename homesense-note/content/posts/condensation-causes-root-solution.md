@@ -7,7 +7,7 @@ date: 2026-07-11T15:35:43+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["하자 대응"]
-tags: ["결로", "해결법"]
+tags: ["하자보수"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1511634829096-045a111727eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHx3YXRlciUyMGRyb3BsZXRzJTIwb24lMjB3aW5kb3d8ZW58MHwwfHx8MTc4Mzc1MjEzMnww&ixlib=rb-4.1.0&q=80&w=1080"

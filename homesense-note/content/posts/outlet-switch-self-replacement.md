@@ -7,7 +7,7 @@ date: 2026-07-10T12:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["셀프 수리"]
-tags: ["셀프수리", "전기", "콘센트"]
+tags: ["셀프수리", "인테리어기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1565049981953-379c9c2a5d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxlbGVjdHJpY2FsJTIwb3V0bGV0JTIwcmVwbGFjZW1lbnR8ZW58MHwwfHx8MTc4MzY2NDE4MXww&ixlib=rb-4.1.0&q=80&w=1080"

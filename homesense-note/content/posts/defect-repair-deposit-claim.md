@@ -7,7 +7,7 @@ date: 2026-07-21T08:33:28+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["하자 대응"]
-tags: ["청구방법", "하자보증금"]
+tags: ["정부지원", "하자보수"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzaWduaW5nJTIwaG9tZSUyMHJlcGFpciUyMGNvbnRyYWN0fGVufDB8MHx8fDE3ODQzNDQ1MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"

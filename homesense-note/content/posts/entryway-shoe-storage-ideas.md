@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["공간 인테리어"]
-tags: ["신발수납", "현관"]
+tags: ["공간인테리어"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1462927114214-6956d2fddd4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzaG9lcyUyMG9yZ2FuaXplZCUyMHNoZWxmfGVufDB8MHx8fDE3ODQ2MDQ2NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-05T12:00:00+09:00
 lastmod: 2026-07-05
 draft: false
 categories: ["입문 교실"]
-tags: ["도배", "장판", "타일"]
+tags: ["자재선택"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1522061541612-28ef361a3045?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHx0aWxlJTIwZmxvb3JpbmclMjBpbnN0YWxsYXRpb258ZW58MHwwfHx8MTc4MzIyNTg1M3ww&ixlib=rb-4.1.0&q=80&w=1080"

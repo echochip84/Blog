@@ -7,7 +7,7 @@ date: 2026-07-21T08:56:28+09:00
 lastmod: 2026-07-12
 draft: false
 categories: ["셀프 수리"]
-tags: ["가이드", "셀프인테리어"]
+tags: ["인테리어기초", "셀프수리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1562259949-e8e7689d7828?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxkaXklMjB3YWxsJTIwcGFpbnRpbmclMjBob21lfGVufDB8MHx8fDE3ODM4NTU4NzF8MA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["하자 대응"]
-tags: ["신축아파트", "하자접수"]
+tags: ["공간인테리어", "하자보수"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1757742690834-aa581b9f53b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxuZXclMjBhcGFydG1lbnQlMjBpbnRlcmlvciUyMGluc3BlY3Rpb258ZW58MHwwfHx8MTc4NDYwNDY0MHww&ixlib=rb-4.1.0&q=80&w=1080"

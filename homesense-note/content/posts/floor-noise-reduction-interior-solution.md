@@ -7,7 +7,7 @@ date: 2026-07-07T18:00:00+09:00
 lastmod: 2026-07-07
 draft: false
 categories: ["공간 인테리어"]
-tags: ["층간소음", "해결법"]
+tags: ["하자보수"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1758687126581-2ddfe0bd573d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-05T15:00:00+09:00
 lastmod: 2026-07-05
 draft: false
 categories: ["입문 교실"]
-tags: ["견적", "기초", "실측"]
+tags: ["비용·견적", "인테리어기초", "시공업체"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1523901839036-a3030662f220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxtZWFzdXJpbmclMjB0YXBlJTIwdG9vbHxlbnwwfDB8fHwxNzgzMjI1OTI5fDA&ixlib=rb-4.1.0&q=80&w=1080"

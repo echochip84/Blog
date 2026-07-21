@@ -7,7 +7,7 @@ date: 2026-07-06T15:00:00+09:00
 lastmod: 2026-07-06
 draft: false
 categories: ["입문 교실"]
-tags: ["공동주택", "공사신고", "과태료"]
+tags: ["정부지원", "공간인테리어"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1515263487990-61b07816b324?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"

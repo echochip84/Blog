@@ -7,7 +7,7 @@ date: 2026-07-21T09:07:28+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["기타"]
-tags: ["시트지", "커튼"]
+tags: ["자재선택", "공간인테리어"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1473252812967-d565c3607e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHx3aW5kb3clMjBjdXJ0YWluJTIwc29mdCUyMGxpZ2h0fGVufDB8MHx8fDE3ODQyNDQ3NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"

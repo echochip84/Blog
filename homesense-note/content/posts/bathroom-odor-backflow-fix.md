@@ -7,7 +7,7 @@ date: 2026-07-21T08:52:28+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["하자 대응"]
-tags: ["배수", "해결법", "화장실냄새"]
+tags: ["하자보수"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1542855368-ca6ea825bca2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxoYW5kJTIwcGx1bmdpbmclMjBiYXRocm9vbSUyMGRyYWlufGVufDB8MHx8fDE3ODQzNDUyNTR8MA&ixlib=rb-4.1.0&q=80&w=1080"

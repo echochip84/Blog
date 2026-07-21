@@ -7,7 +7,7 @@ date: 2026-07-14T09:14:01+09:00
 lastmod: 2026-07-14
 draft: false
 categories: ["제품 추천"]
-tags: ["인덕션", "가스레인지"]
+tags: ["가전제품"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxtb2Rlcm4lMjBpbmR1Y3Rpb24lMjBjb29rdG9wJTIwa2l0Y2hlbnxlbnwwfDB8fHwxNzgzOTg4Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080"

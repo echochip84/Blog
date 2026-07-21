@@ -7,7 +7,7 @@ date: 2026-07-06T17:00:00+09:00
 lastmod: 2026-07-06
 draft: false
 categories: ["입문 교실"]
-tags: ["누수", "방수공사", "기초"]
+tags: ["인테리어기초", "하자보수"]
 author: "홈센스 노트"
 cover:
   image: "https://images.unsplash.com/photo-1560448075-bb485b067938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
