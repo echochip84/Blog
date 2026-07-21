@@ -9,7 +9,10 @@ draft: false
 categories: ["저예산 살림템"]
 tags: ["다이소", "예산", "자취준비"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1531856396526-a0c8d7bd628b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjaGVhcCUyMGhvbWUlMjBnb29kcyUyMG9uJTIwdGFibGV8ZW58MHwwfHx8MTc4NDM4Nzc5MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "나무 식탁 위에 그릴에 구운 치킨 요리가 차려진 모습"
+  caption: "Photo by [Brina Blum](https://unsplash.com/@brina_blum?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "sol-0067"
 funnel_type: "체크리스트"
 schema_type: "Article"

@@ -9,7 +9,10 @@ draft: false
 categories: ["자취 요리 기초"]
 tags: ["비용", "식비"]
 author: "echochip"
-image_pending: true
+cover:
+  image: "https://images.unsplash.com/photo-1622003275933-fc87f54913ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxtZWFsJTIwa2l0JTIwYm94JTIwaW5ncmVkaWVudHN8ZW58MHwwfHx8MTc4NDM4Nzc5M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+  alt: "흰 접시 위 얇게 썬 고기와 로스트 비프 요리에 필요한 재료들이 함께 놓인 모습"
+  caption: "Photo by [ThermoPro](https://unsplash.com/@thermopro?utm_source=blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=blog&utm_medium=referral)"
 post_id: "sol-0084"
 funnel_type: "비교판단"
 schema_type: "Article"
