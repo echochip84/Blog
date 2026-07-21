@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["생활비 관리법"]
-tags: ["금융", "보험"]
+tags: ["자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1758523419048-eeb546daac05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHx5b3VuZyUyMHBlcnNvbiUyMHJlYWRpbmclMjBpbnN1cmFuY2UlMjBwYXBlcnN8ZW58MHwwfHx8MTc4NDI0MDUxMnww&ixlib=rb-4.1.0&q=80&w=1080"

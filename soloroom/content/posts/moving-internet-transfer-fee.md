@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["이사 준비 체크"]
-tags: ["비용", "이사"]
+tags: ["생활비·예산", "방구하기·이사"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1516044734145-07ca8eef8731?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxpbnRlcm5ldCUyMHJvdXRlciUyMHNldHVwJTIwaG9tZXxlbnwwfDB8fHwxNzg0Mjk2NjA1fDA&ixlib=rb-4.1.0&q=80&w=1080"

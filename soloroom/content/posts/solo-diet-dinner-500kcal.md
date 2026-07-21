@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["자취 요리 기초"]
-tags: ["식비"]
+tags: ["식비관리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1556911073-a517e752729c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxoZWFsdGh5JTIwaG9tZSUyMGNvb2tlZCUyMGRpbm5lcnxlbnwwfDB8fHwxNzg0Mjk2NjE3fDA&ixlib=rb-4.1.0&q=80&w=1080"

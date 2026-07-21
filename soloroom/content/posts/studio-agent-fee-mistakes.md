@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["자취 시작 준비"]
-tags: ["계약", "비용"]
+tags: ["자취기초", "생활비·예산"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1781229771042-2a859f8f8022?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxyZWFsJTIwZXN0YXRlJTIwa2V5cyUyMGhhbmRzaGFrZXxlbnwwfDB8fHwxNzg0Mjk2NjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"

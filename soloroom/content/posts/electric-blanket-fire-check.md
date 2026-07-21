@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["원룸 안전 점검"]
-tags: ["1인가구", "안전점검"]
+tags: ["자취기초", "안전·사기예방"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1686828751885-040f0a0fb77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxlbGVjdHJpYyUyMGhlYXRpbmclMjBibGFua2V0JTIwYmVkfGVufDB8MHx8fDE3ODQyODI3NTN8MA&ixlib=rb-4.1.0&q=80&w=1080"

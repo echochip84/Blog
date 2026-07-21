@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["자취 시작 준비"]
-tags: ["비용", "청년지원", "연말정산"]
+tags: ["생활비·예산", "자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHx0YXglMjByZWZ1bmQlMjBwYXBlcndvcmslMjBkZXNrfGVufDB8MHx8fDE3ODQyOTY2MDB8MA&ixlib=rb-4.1.0&q=80&w=1080"

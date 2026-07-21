@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["자취 요리 기초"]
-tags: ["식비", "비용"]
+tags: ["생활비·예산", "식비관리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1418669112725-fb499fb61127?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxmcmVzaCUyMHZlZ2V0YWJsZXMlMjBzaG9wcGluZyUyMGJhc2tldHxlbnwwfDB8fHwxNzg0MTg1NDAwfDA&ixlib=rb-4.1.0&q=80&w=1080"

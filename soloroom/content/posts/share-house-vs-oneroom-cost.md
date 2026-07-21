@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["룸메이트 생활법"]
-tags: ["방구하기", "비교", "비용"]
+tags: ["방구하기·이사", "자취기초", "생활비·예산"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1544761634-dc512f2238a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxjYWxjdWxhdGluZyUyMG1vbnRobHklMjBidWRnZXQlMjBub3RlYm9va3xlbnwwfDB8fHwxNzg0MjYxNjU5fDA&ixlib=rb-4.1.0&q=80&w=1080"

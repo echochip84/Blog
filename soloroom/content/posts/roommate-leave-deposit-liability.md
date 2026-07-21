@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["룸메이트 생활법"]
-tags: ["계약", "보증금", "세입자"]
+tags: ["자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1761843425027-8955b41609dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMHNoYXJlZCUyMHJvb20lMjBoYWxmJTIwcGFja2VkfGVufDB8MHx8fDE3ODQxODUzOTF8MA&ixlib=rb-4.1.0&q=80&w=1080"

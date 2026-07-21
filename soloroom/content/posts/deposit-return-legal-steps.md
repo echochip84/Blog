@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["이사 준비 체크"]
-tags: ["보증금", "이사"]
+tags: ["자취기초", "방구하기·이사"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1757742690834-aa581b9f53b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxlbXB0eSUyMGFwYXJ0bWVudCUyMG1vdmluZyUyMGRheXxlbnwwfDB8fHwxNzg0MTkzNzI4fDA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-18T09:00:00+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["저예산 살림템"]
-tags: ["다이소", "예산", "자취준비"]
+tags: ["자취기초", "생활비·예산"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1531856396526-a0c8d7bd628b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjaGVhcCUyMGhvbWUlMjBnb29kcyUyMG9uJTIwdGFibGV8ZW58MHwwfHx8MTc4NDM4Nzc5MXww&ixlib=rb-4.1.0&q=80&w=1080"

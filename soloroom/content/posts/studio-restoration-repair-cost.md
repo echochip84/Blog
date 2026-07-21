@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["원룸 인테리어"]
-tags: ["비용", "세입자"]
+tags: ["생활비·예산", "자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1645448118559-2dc2d8b9ba1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8M3x8aGFuZCUyMHJlcGFpcmluZyUyMHdhbGxwYXBlcnxlbnwwfDB8fHwxNzg0MjQyMDE1fDA&ixlib=rb-4.1.0&q=80&w=1080"

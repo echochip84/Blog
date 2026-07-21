@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["원룸 인테리어"]
-tags: ["결로곰팡이", "세입자"]
+tags: ["자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1578500339042-8059dc18b911?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8NXx8ZnVybml0dXJlJTIwZ2FwJTIwYWdhaW5zdCUyMHdhbGx8ZW58MHwwfHx8MTc4NDI0MjAxM3ww&ixlib=rb-4.1.0&q=80&w=1080"

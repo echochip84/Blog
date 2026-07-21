@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["룸메이트 생활법"]
-tags: ["계약", "보증금", "체크리스트"]
+tags: ["자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1562564055-71e051d33c19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHx0d28lMjBwZW9wbGUlMjBzaWduaW5nJTIwYWdyZWVtZW50JTIwdGFibGV8ZW58MHwwfHx8MTc4NDI0MDUwNXww&ixlib=rb-4.1.0&q=80&w=1080"

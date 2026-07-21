@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["자취 시작 준비"]
-tags: ["계약", "보증금", "사기예방"]
+tags: ["자취기초", "안전·사기예방"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzaWduaW5nJTIwYXBhcnRtZW50JTIwbGVhc2UlMjBjb250cmFjdHxlbnwwfDB8fHwxNzg0MTg1MzgyfDA&ixlib=rb-4.1.0&q=80&w=1080"

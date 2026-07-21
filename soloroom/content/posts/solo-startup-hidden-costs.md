@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["자취 시작 준비"]
-tags: ["방구하기", "비용"]
+tags: ["방구하기·이사", "생활비·예산"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1772724317350-520faccb15e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxtb3ZpbmclMjBib3hlcyUyMG5ldyUyMGFwYXJ0bWVudHxlbnwwfDB8fHwxNzg0MjgyNzUxfDA&ixlib=rb-4.1.0&q=80&w=1080"

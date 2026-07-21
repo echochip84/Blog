@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["자취 가전 선택"]
-tags: ["가전", "비용"]
+tags: ["자취가전", "생활비·예산"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1663068307522-1731d9c8fbc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxyZXBhaXJpbmclMjBvbGQlMjB3YXNoaW5nJTIwbWFjaGluZXxlbnwwfDB8fHwxNzg0Mjg3NDc1fDA&ixlib=rb-4.1.0&q=80&w=1080"

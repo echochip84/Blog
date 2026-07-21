@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["원룸 안전 점검"]
-tags: ["안전점검", "입주세팅", "체크리스트"]
+tags: ["안전·사기예방", "방구하기·이사", "자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/flagged/photo-1564767609342-620cb19b2357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxob2xkaW5nJTIwa2V5cyUyMG5ldyUyMGFwYXJ0bWVudHxlbnwwfDB8fHwxNzg0MjU5NTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080"

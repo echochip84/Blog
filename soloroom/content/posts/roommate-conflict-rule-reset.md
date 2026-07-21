@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["룸메이트 생활법"]
-tags: ["1인가구", "공간활용", "생활비"]
+tags: ["자취기초", "공간활용", "생활비·예산"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1739302750675-042ed497a429?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHx0ZW5zZSUyMGNvbnZlcnNhdGlvbiUyMG9uJTIwY291Y2h8ZW58MHwwfHx8MTc4NDI0MDUwNHww&ixlib=rb-4.1.0&q=80&w=1080"

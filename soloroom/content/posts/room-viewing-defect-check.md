@@ -7,7 +7,7 @@ date: 2026-07-18T09:00:00+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["자취 시작 준비"]
-tags: ["방구하기", "체크리스트"]
+tags: ["방구하기·이사", "자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1589824783837-6169889fa20f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxpbnNwZWN0aW5nJTIwYmF0aHJvb20lMjBmbHVzaGluZyUyMHRvaWxldHxlbnwwfDB8fHwxNzg0Mzg2NjYyfDA&ixlib=rb-4.1.0&q=80&w=1080"

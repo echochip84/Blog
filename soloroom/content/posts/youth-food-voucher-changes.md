@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["자취 요리 기초"]
-tags: ["식비", "청년지원"]
+tags: ["식비관리", "자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1553531889-56cc480ac5cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTAzfDB8MXxzZWFyY2h8MXx8eW91bmclMjB3b21hbiUyMGdyb2NlcnklMjBzaG9wcGluZyUyMHZlZ2V0YWJsZXN8ZW58MHwwfHx8MTc4NDI0MjAxN3ww&ixlib=rb-4.1.0&q=80&w=1080"

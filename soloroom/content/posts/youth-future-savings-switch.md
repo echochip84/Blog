@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["생활비 관리법"]
-tags: ["금융", "청년지원"]
+tags: ["자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1459257831348-f0cdd359235f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxzYXZpbmclMjBjb2lucyUyMHBpZ2d5JTIwYmFua3xlbnwwfDB8fHwxNzg0MjU5NTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"

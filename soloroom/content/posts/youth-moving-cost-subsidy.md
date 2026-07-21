@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["이사 준비 체크"]
-tags: ["이사", "청년지원"]
+tags: ["방구하기·이사", "자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1698917414969-feade59e3343?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxtb3ZpbmclMjB0cnVjayUyMGxvYWRpbmclMjBib3hlc3xlbnwwfDB8fHwxNzg0MjU5NTQzfDA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-18T09:00:00+09:00
 lastmod: 2026-07-18
 draft: false
 categories: ["룸메이트 생활법"]
-tags: ["공과금", "비용", "절약"]
+tags: ["생활비·예산"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1626266061368-46a8f578ddd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzcGxpdHRpbmclMjB1dGlsaXR5JTIwYmlsbHMlMjBjYWxjdWxhdG9yfGVufDB8MHx8fDE3ODQzODY2NjN8MA&ixlib=rb-4.1.0&q=80&w=1080"

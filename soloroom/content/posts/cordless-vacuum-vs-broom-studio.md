@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["저예산 살림템"]
-tags: ["가전", "비교", "청소"]
+tags: ["자취가전", "자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHx2YWN1dW0lMjBjbGVhbmVyJTIwYW5kJTIwYnJvb218ZW58MHwwfHx8MTc4NDIxMzczM3ww&ixlib=rb-4.1.0&q=80&w=1080"

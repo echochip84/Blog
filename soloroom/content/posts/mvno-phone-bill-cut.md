@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["생활비 관리법"]
-tags: ["절약", "통신"]
+tags: ["생활비·예산", "자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1676315487585-ccddc7934f50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxTSU0lMjBjYXJkJTIwYW5kJTIwc21hcnRwaG9uZXxlbnwwfDB8fHwxNzg0MjQwNTAwfDA&ixlib=rb-4.1.0&q=80&w=1080"

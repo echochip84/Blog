@@ -7,7 +7,7 @@ date: 2026-07-16T09:00:00+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["생활비 관리법"]
-tags: ["공과금", "생활비", "절약"]
+tags: ["생활비·예산"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1625225233840-695456021cde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxyZXZpZXdpbmclMjBtb250aGx5JTIwYmlsbHMlMjBkZXNrfGVufDB8MHx8fDE3ODQxODUzODV8MA&ixlib=rb-4.1.0&q=80&w=1080"

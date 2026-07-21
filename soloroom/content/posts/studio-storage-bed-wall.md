@@ -7,7 +7,7 @@ date: 2026-07-17T09:00:00+09:00
 lastmod: 2026-07-17
 draft: false
 categories: ["원룸 인테리어"]
-tags: ["공간활용", "수납"]
+tags: ["공간활용", "자취기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1758366278666-902516aac79f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHx3YWxsJTIwc2hlbGYlMjBvcmdhbml6YXRpb258ZW58MHwwfHx8MTc4NDI1OTU1MHww&ixlib=rb-4.1.0&q=80&w=1080"
