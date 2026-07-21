@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+{{ "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 {{/* 태그 term/목록 페이지는 사이트맵에서 뺀다 — 글보다 얇고 수가 많아(실측: 글
      118개 대비 태그 212개) 구글이 정작 중요한 글에 크롤링 예산을 못 쓰게 만든다.
