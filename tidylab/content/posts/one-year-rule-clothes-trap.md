@@ -7,7 +7,7 @@ date: 2026-07-20T11:01:34+09:00
 lastmod: 2026-07-14
 draft: false
 categories: ["옷장 정리실"]
-tags: ["버리기", "옷장"]
+tags: ["미니멀라이프", "옷장정리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1635274605638-d44babc08a4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxmb2xkZWQlMjBjbG90aGVzJTIwcGlsZXxlbnwwfDB8fHwxNzgzOTk1MzA3fDA&ixlib=rb-4.1.0&q=80&w=1080"

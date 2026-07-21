@@ -7,7 +7,7 @@ date: 2026-07-21T08:56:46+09:00
 lastmod: 2026-07-20
 draft: false
 categories: ["계절 정리법"]
-tags: ["계절정리", "수납용품", "습기"]
+tags: ["계절정리", "수납용품", "습기관리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1662986788528-0851badbf423?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxkZWh1bWlkaWZpZXIlMjBib3glMjBpbiUyMGNsb3NldHxlbnwwfDB8fHwxNzg0NTE3MTY1fDA&ixlib=rb-4.1.0&q=80&w=1080"

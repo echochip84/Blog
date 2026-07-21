@@ -7,7 +7,7 @@ date: 2026-07-11T10:32:38+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["수납 공간 설계"]
-tags: ["공간활용", "데드스페이스"]
+tags: ["공간활용", "정리기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1781032392300-ed3bdf78ef4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHx3YWxsJTIwc2hlbHZlcyUyMG5vJTIwZHJpbGx8ZW58MHwwfHx8MTc4MzczMzc1Nnww&ixlib=rb-4.1.0&q=80&w=1080"

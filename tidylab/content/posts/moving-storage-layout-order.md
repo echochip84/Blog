@@ -7,7 +7,7 @@ date: 2026-07-21T09:07:46+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["수납 공간 설계"]
-tags: ["공간활용", "이사"]
+tags: ["공간활용", "계절정리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1772724317350-520faccb15e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxtb3ZpbmclMjBib3hlcyUyMG5ldyUyMGFwYXJ0bWVudHxlbnwwfDB8fHwxNzg0NTkxMTk1fDA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-10T14:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["미니멀 라이프"]
-tags: ["미니멀", "비우기", "정리기초"]
+tags: ["미니멀라이프", "정리기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1757742690834-aa581b9f53b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxtaW5pbWFsaXN0JTIwZW1wdHklMjByb29tJTIwY2xlYW58ZW58MHwwfHx8MTc4MzY0NTgxOHww&ixlib=rb-4.1.0&q=80&w=1080"

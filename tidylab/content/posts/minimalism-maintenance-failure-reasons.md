@@ -7,7 +7,7 @@ date: 2026-07-09T11:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["미니멀 라이프"]
-tags: ["리바운드", "미니멀", "습관"]
+tags: ["미니멀라이프", "정리기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1687075197066-eb8bb5e91b16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXN0JTIwbGl2aW5nJTIwcm9vbSUyMGVtcHR5JTIwc2hlbGZ8ZW58MHwwfHx8MTc4MzU1Njc4MXww&ixlib=rb-4.1.0&q=80&w=1080"

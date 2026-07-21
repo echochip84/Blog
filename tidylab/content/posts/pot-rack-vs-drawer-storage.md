@@ -7,7 +7,7 @@ date: 2026-07-19T16:09:59+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["주방 수납법"]
-tags: ["좁은집", "주방수납"]
+tags: ["공간활용", "주방정리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1523039031846-6b3f39302cb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxoYW5naW5nJTIwcG90JTIwcmFjayUyMGtpdGNoZW58ZW58MHwwfHx8MTc4NDE2ODA0NHww&ixlib=rb-4.1.0&q=80&w=1080"

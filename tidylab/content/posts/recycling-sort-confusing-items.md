@@ -7,7 +7,7 @@ date: 2026-07-17T15:13:17+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["계절 정리법"]
-tags: ["계절정리", "버리기", "분리배출"]
+tags: ["계절정리", "미니멀라이프", "정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1611284446314-60a58ac0deb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzb3J0ZWQlMjByZWN5Y2xpbmclMjBiaW5zfGVufDB8MHx8fDE3ODQwNzIyMDh8MA&ixlib=rb-4.1.0&q=80&w=1080"

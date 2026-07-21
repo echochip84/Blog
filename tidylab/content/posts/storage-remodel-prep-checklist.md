@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:46+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["수납 공간 설계"]
-tags: ["공간활용", "붙박이장"]
+tags: ["공간활용", "정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1640357154220-9775b0f31dec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMGJ1aWx0LWluJTIwY2xvc2V0fGVufDB8MHx8fDE3ODQwNzIyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080"

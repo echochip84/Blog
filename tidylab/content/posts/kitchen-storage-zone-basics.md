@@ -7,7 +7,7 @@ date: 2026-07-11T10:29:38+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["주방 수납법"]
-tags: ["동선", "정리기초", "주방수납"]
+tags: ["공간활용", "정리기초", "주방정리"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1678108040468-0cc9addd984d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxraXRjaGVuJTIwY2FiaW5ldCUyMG9yZ2FuaXplZCUyMHpvbmVzfGVufDB8MHx8fDE3ODM3MzM3NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"

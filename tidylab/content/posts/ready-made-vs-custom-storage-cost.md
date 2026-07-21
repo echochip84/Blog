@@ -7,7 +7,7 @@ date: 2026-07-10T11:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["수납 공간 설계"]
-tags: ["붙박이장", "수납용품"]
+tags: ["정리기초", "수납용품"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1649361811423-a55616f7ab11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjdXN0b20lMjBjbG9zZXQlMjB3YXJkcm9iZSUyMHN0b3JhZ2V8ZW58MHwwfHx8MTc4MzY0NTgxOXww&ixlib=rb-4.1.0&q=80&w=1080"

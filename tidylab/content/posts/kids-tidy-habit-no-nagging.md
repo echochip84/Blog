@@ -7,7 +7,7 @@ date: 2026-07-18T00:21:48+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["아이방 정리법"]
-tags: ["습관", "아이방", "육아"]
+tags: ["정리기초", "아이방정리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjaGlsZCUyMHRpZHlpbmclMjB0b3lzfGVufDB8MHx8fDE3ODQwNzIyMTB8MA&ixlib=rb-4.1.0&q=80&w=1080"

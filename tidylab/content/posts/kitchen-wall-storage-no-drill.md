@@ -7,7 +7,7 @@ date: 2026-07-09T09:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["주방 수납법"]
-tags: ["공간활용", "무타공", "주방수납"]
+tags: ["공간활용", "정리기초", "주방정리"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1654064756668-16a32248d391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxraXRjaGVuJTIwd2FsbCUyMHN0b3JhZ2UlMjBvcmdhbml6ZXJ8ZW58MHwwfHx8MTc4MzU3Nzc3MXww&ixlib=rb-4.1.0&q=80&w=1080"

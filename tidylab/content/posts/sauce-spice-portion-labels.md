@@ -7,7 +7,7 @@ date: 2026-07-21T08:52:46+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["주방 수납법"]
-tags: ["라벨링", "주방수납", "소분용기"]
+tags: ["정리기초", "주방정리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1580116270858-8a0d62b15426?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxsYWJlbGVkJTIwc3BpY2UlMjBqYXJzJTIwc2hlbGZ8ZW58MHwwfHx8MTc4NDU5MTE4N3ww&ixlib=rb-4.1.0&q=80&w=1080"

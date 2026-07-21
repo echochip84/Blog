@@ -7,7 +7,7 @@ date: 2026-07-21T08:55:46+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["계절 정리법"]
-tags: ["계절정리", "냉장고정리"]
+tags: ["계절정리", "정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1737363625103-de62618722e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxzdGFja2VkJTIwZm9vZCUyMGNvbnRhaW5lcnMlMjBmcmlkZ2V8ZW58MHwwfHx8MTc4NDE2ODA1Mnww&ixlib=rb-4.1.0&q=80&w=1080"

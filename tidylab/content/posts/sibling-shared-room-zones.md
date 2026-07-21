@@ -7,7 +7,7 @@ date: 2026-07-21T08:58:46+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["아이방 정리법"]
-tags: ["공간활용", "아이방", "육아"]
+tags: ["공간활용", "아이방정리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1699799462235-53a0ca5a7a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzaGFyZWQlMjBraWRzJTIwYmVkcm9vbSUyMGJ1bmt8ZW58MHwwfHx8MTc4NDU5MTE4OHww&ixlib=rb-4.1.0&q=80&w=1080"

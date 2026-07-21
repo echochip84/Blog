@@ -7,7 +7,7 @@ date: 2026-07-21T09:13:46+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["정리의 첫걸음"]
-tags: ["수납원리", "정리기초"]
+tags: ["정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1642379831634-1eb6a4e2788d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxmb2xkaW5nJTIwY2xvdGhlcyUyMGRyYXdlcnxlbnwwfDB8fHwxNzg0NTkxMTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-11T10:34:38+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["정리의 첫걸음"]
-tags: ["서류정리"]
+tags: ["정리기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1554224155-1696413565d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxwYXBlciUyMGRvY3VtZW50JTIwZGVjbHV0dGVyaW5nJTIwZGVza3xlbnwwfDB8fHwxNzgzNzQ1MDY0fDA&ixlib=rb-4.1.0&q=80&w=1080"

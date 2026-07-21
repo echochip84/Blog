@@ -7,7 +7,7 @@ date: 2026-07-21T08:47:46+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["수납용품 비교"]
-tags: ["리빙박스", "수납용품", "습기"]
+tags: ["정리기초", "수납용품", "습기관리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1581068466660-e6585b8afa97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxmYWJyaWMlMjBzdG9yYWdlJTIwYm94fGVufDB8MHx8fDE3ODQ1OTExODN8MA&ixlib=rb-4.1.0&q=80&w=1080"

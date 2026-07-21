@@ -7,7 +7,7 @@ date: 2026-07-21T09:10:46+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["정리의 첫걸음"]
-tags: ["버리기", "정리기초"]
+tags: ["미니멀라이프", "정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1606053929013-311c13f97b5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzb3J0ZWQlMjBjbG90aGluZyUyMHBpbGVzfGVufDB8MHx8fDE3ODQwNzIyMjF8MA&ixlib=rb-4.1.0&q=80&w=1080"

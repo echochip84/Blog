@@ -7,7 +7,7 @@ date: 2026-07-19T16:11:59+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["미니멀 라이프"]
-tags: ["리바운드", "미니멀", "습관"]
+tags: ["미니멀라이프", "정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1772475329856-7c7de908b44e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxtaW5pbWFsaXN0JTIwbGl2aW5nJTIwc3BhY2V8ZW58MHwwfHx8MTc4NDA3MjIxN3ww&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-11T16:40:44+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["아이방 정리법"]
-tags: ["아이방", "육아", "장난감"]
+tags: ["아이방정리"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1558118385-34a216752d40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHx0b3klMjBzdG9yYWdlJTIwYmFza2V0cyUyMG9uJTIwZmxvb3J8ZW58MHwwfHx8MTc4Mzc1NjE0M3ww&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-11T10:31:38+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["정리 습관법"]
-tags: ["버리기", "복지", "습관"]
+tags: ["미니멀라이프", "정리기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1742453161018-73e39a241541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxob2FyZGVkJTIwY2x1dHRlcmVkJTIwcm9vbXxlbnwwfDB8fHwxNzgzNzMzNzYyfDA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-21T09:08:46+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["옷장 정리실"]
-tags: ["계절옷", "압축팩"]
+tags: ["정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1602262159834-3a290b86a9cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzZWFzb25hbCUyMGNsb3RoaW5nJTIwc3RvcmFnZSUyMGJveHxlbnwwfDB8fHwxNzg0NTkxMTk3fDA&ixlib=rb-4.1.0&q=80&w=1080"

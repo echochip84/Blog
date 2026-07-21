@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["아이방 정리법"]
-tags: ["수납용품", "아이방", "장난감"]
+tags: ["수납용품", "아이방정리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1640215775144-cafac1067fe6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHx0b3klMjBzdG9yYWdlJTIwYmFza2V0fGVufDB8MHx8fDE3ODQ2MjM2MjF8MA&ixlib=rb-4.1.0&q=80&w=1080"

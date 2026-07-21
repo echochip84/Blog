@@ -7,7 +7,7 @@ date: 2026-07-21T09:06:46+09:00
 lastmod: 2026-07-20
 draft: false
 categories: ["수납 공간 설계"]
-tags: ["공간활용", "옷수납"]
+tags: ["공간활용", "옷장정리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1774271694598-4619fb174764?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxjbG90aGVzJTIwb24lMjB3YWxsJTIwcmFja3xlbnwwfDB8fHwxNzg0NTE3MTcxfDA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["옷장 정리실"]
-tags: ["계절옷", "옷장"]
+tags: ["정리기초", "옷장정리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxzZWFzb25hbCUyMHdhcmRyb2JlJTIwc3dhcHxlbnwwfDB8fHwxNzg0NjIzNjMwfDA&ixlib=rb-4.1.0&q=80&w=1080"

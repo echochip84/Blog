@@ -7,7 +7,7 @@ date: 2026-07-08T09:00:00+09:00
 lastmod: 2026-07-08
 draft: false
 categories: ["정리의 첫걸음"]
-tags: ["공간활용", "시선 정리", "넓어 보이는 집"]
+tags: ["공간활용"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"

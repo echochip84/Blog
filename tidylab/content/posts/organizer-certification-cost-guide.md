@@ -7,7 +7,7 @@ date: 2026-07-21T09:00:00+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["수납용품 비교"]
-tags: ["수납용품", "자격증"]
+tags: ["수납용품", "정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1567113463300-102a7eb3cb26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBvcmdhbml6aW5nJTIwd2FyZHJvYmV8ZW58MHwwfHx8MTc4NDYyMzYxOXww&ixlib=rb-4.1.0&q=80&w=1080"

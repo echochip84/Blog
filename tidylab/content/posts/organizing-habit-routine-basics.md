@@ -7,7 +7,7 @@ date: 2026-07-10T12:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["정리 습관법"]
-tags: ["습관", "유지", "정리기초"]
+tags: ["정리기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1720572742865-b57ccc2df130?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxvcmdhbml6ZWQlMjBzaGVsZiUyMGJhc2tldHMlMjBob21lfGVufDB8MHx8fDE3ODM1ODE2MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"

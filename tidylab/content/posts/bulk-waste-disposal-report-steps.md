@@ -7,7 +7,7 @@ date: 2026-07-10T11:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["계절 정리법"]
-tags: ["계절정리", "대형폐기물", "버리기"]
+tags: ["계절정리", "정리기초", "미니멀라이프"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1632667226262-3f341ec5afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxidWxrJTIwd2FzdGUlMjBmdXJuaXR1cmUlMjBkaXNwb3NhbHxlbnwwfHx8fDE3ODM1ODAwODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"

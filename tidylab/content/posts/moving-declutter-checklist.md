@@ -7,7 +7,7 @@ date: 2026-07-08T14:00:00+09:00
 lastmod: 2026-07-08
 draft: false
 categories: ["정리의 첫걸음"]
-tags: ["이사", "버리기"]
+tags: ["미니멀라이프", "계절정리"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1730154838368-c37b1fdebcf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"

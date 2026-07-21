@@ -7,7 +7,7 @@ date: 2026-07-21T08:51:46+09:00
 lastmod: 2026-07-20
 draft: false
 categories: ["주방 수납법"]
-tags: ["냉장고정리", "주방수납"]
+tags: ["정리기초", "주방정리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1737363625921-dd9e02b4c067?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw1fHxvcmdhbml6ZWQlMjBmcmlkZ2UlMjBzaGVsdmVzfGVufDB8MHx8fDE3ODQ1MTcxNjF8MA&ixlib=rb-4.1.0&q=80&w=1080"

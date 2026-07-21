@@ -7,7 +7,7 @@ date: 2026-07-09T09:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["수납용품 비교"]
-tags: ["수납용품", "공간활용", "정리기초"]
+tags: ["공간활용", "수납용품", "정리기초"]
 author: "정리수납 연구소"
 cover:
   image: "https://images.unsplash.com/photo-1650229068182-6931ccb389c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxob21lJTIwb3JnYW5pemF0aW9uJTIwc3RvcmFnZSUyMGJveGVzfGVufDB8MHx8fDE3ODM1NTY0MDB8MA&ixlib=rb-4.1.0&q=80&w=1080"

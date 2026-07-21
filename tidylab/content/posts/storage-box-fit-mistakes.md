@@ -7,7 +7,7 @@ date: 2026-07-21T08:46:46+09:00
 lastmod: 2026-07-20
 draft: false
 categories: ["수납용품 비교"]
-tags: ["공간활용", "수납용품", "반품"]
+tags: ["공간활용", "수납용품"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1776219189056-15335575f274?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxzdG9yYWdlJTIwYmlucyUyMG9uJTIwc2hlbGZ8ZW58MHwwfHx8MTc4NDUxNzE1N3ww&ixlib=rb-4.1.0&q=80&w=1080"

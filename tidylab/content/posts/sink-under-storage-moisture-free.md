@@ -7,7 +7,7 @@ date: 2026-07-10T13:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["주방 수납법"]
-tags: ["공간활용", "습기", "주방수납"]
+tags: ["공간활용", "습기관리", "주방정리"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1666608153597-05b25a35f82c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxraXRjaGVuJTIwc2luayUyMGNhYmluZXQlMjBzdG9yYWdlJTIwYmFza2V0c3xlbnwwfDB8fHwxNzgzNjQ2NzI5fDA&ixlib=rb-4.1.0&q=80&w=1080"

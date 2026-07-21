@@ -7,7 +7,7 @@ date: 2026-07-11T16:42:44+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["계절 정리법"]
-tags: ["계절정리", "보관", "정리기초"]
+tags: ["계절정리", "수납용품", "정리기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxzZWFzb25hbCUyMHdhcmRyb2JlJTIwY2hhbmdlJTIwY2xvc2V0fGVufDB8MHx8fDE3ODM3NTYxNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"

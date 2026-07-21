@@ -7,7 +7,7 @@ date: 2026-07-08T13:00:00+09:00
 lastmod: 2026-07-08
 draft: false
 categories: ["정리의 첫걸음"]
-tags: ["가족정리", "습관", "유지"]
+tags: ["정리기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1768430309142-632889e10e86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"

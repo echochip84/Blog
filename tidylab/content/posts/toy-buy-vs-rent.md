@@ -7,7 +7,7 @@ date: 2026-07-21T08:45:46+09:00
 lastmod: 2026-07-20
 draft: false
 categories: ["아이방 정리법"]
-tags: ["소비습관", "아이방", "장난감"]
+tags: ["미니멀라이프", "아이방정리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1781231995729-b48ac82ec55d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjb2xvcmZ1bCUyMHRveXMlMjBpbiUyMGJhc2tldHxlbnwwfDB8fHwxNzg0NTE3MTU3fDA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-21T08:50:46+09:00
 lastmod: 2026-07-15
 draft: false
 categories: ["옷장 정리실"]
-tags: ["옷수납", "행거"]
+tags: ["옷장정리", "정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxjbG90aGluZyUyMHJhY2slMjByYWlsfGVufDB8MHx8fDE3ODQwNzIyMTh8MA&ixlib=rb-4.1.0&q=80&w=1080"

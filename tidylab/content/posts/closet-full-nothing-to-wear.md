@@ -7,7 +7,7 @@ date: 2026-07-11T16:45:44+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["옷장 정리실"]
-tags: ["옷장", "캡슐옷장"]
+tags: ["옷장정리"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1529720317453-c8da503f2051?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHw0fHxvdmVyZmxvd2luZyUyMGNsb3RoZXMlMjByYWNrJTIwaGFuZ2Vyc3xlbnwwfDB8fHwxNzgzNzU2MTU0fDA&ixlib=rb-4.1.0&q=80&w=1080"

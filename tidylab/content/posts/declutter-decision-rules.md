@@ -7,7 +7,7 @@ date: 2026-07-08T15:00:00+09:00
 lastmod: 2026-07-08
 draft: false
 categories: ["정리의 첫걸음"]
-tags: ["버리기", "미니멀라이프", "정리기준"]
+tags: ["미니멀라이프"]
 author: "정리수납 연구소"
 cover:
   image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"

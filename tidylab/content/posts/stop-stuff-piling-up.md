@@ -7,7 +7,7 @@ date: 2026-07-08T12:00:00+09:00
 lastmod: 2026-07-08
 draft: false
 categories: ["정리의 첫걸음"]
-tags: ["소비습관", "물건 줄이기", "미니멀라이프"]
+tags: ["미니멀라이프"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1572810677431-9a662da8d284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwyfHxjbHV0dGVyZWQlMjBzaG9wcGluZyUyMGJhZ3MlMjBob21lfGVufDB8MHx8fDE3ODM3MzM3NTR8MA&ixlib=rb-4.1.0&q=80&w=1080"

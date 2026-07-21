@@ -7,7 +7,7 @@ date: 2026-07-21T09:03:46+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["미니멀 라이프"]
-tags: ["미니멀", "비우기"]
+tags: ["미니멀라이프"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1643654567423-8aa3ceec77b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxoYW5kcyUyMGhvbGRpbmclMjBvbGQlMjBiZWxvbmdpbmdzfGVufDB8MHx8fDE3ODQ1OTExOTF8MA&ixlib=rb-4.1.0&q=80&w=1080"

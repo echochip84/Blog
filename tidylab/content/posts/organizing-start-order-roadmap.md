@@ -7,7 +7,7 @@ date: 2026-07-21T09:09:46+09:00
 lastmod: 2026-07-14
 draft: false
 categories: ["정리의 첫걸음"]
-tags: ["습관", "정리기초"]
+tags: ["정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1593814013328-6041acc27094?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHx0aWR5JTIwb3JnYW5pemVkJTIwc2hlbGZ8ZW58MHwwfHx8MTc4Mzk5NTMwOXww&ixlib=rb-4.1.0&q=80&w=1080"

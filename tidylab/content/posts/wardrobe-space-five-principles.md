@@ -7,7 +7,7 @@ date: 2026-07-11T10:28:38+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["옷장 정리실"]
-tags: ["옷수납", "옷장"]
+tags: ["옷장정리"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1550344071-13ecada2a91d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxvdmVyZmxvd2luZyUyMHdhcmRyb2JlJTIwY2xvdGhlc3xlbnwwfDB8fHwxNzgzNzMzNzU2fDA&ixlib=rb-4.1.0&q=80&w=1080"

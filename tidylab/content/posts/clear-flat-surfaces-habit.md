@@ -7,7 +7,7 @@ date: 2026-07-21T08:59:46+09:00
 lastmod: 2026-07-21
 draft: false
 categories: ["정리 습관법"]
-tags: ["루틴", "습관"]
+tags: ["정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1517870662726-c1d98ee36250?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMGNsZWFuJTIwZGluaW5nJTIwdGFibGV8ZW58MHwwfHx8MTc4NDU5MTE5MHww&ixlib=rb-4.1.0&q=80&w=1080"

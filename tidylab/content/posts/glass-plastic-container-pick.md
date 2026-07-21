@@ -7,7 +7,7 @@ date: 2026-07-11T16:39:44+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["주방 수납법"]
-tags: ["밀폐용기", "수납용품", "주방수납"]
+tags: ["정리기초", "수납용품", "주방정리"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1621318551436-68573392fd5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzdGFja2VkJTIwZm9vZCUyMHN0b3JhZ2UlMjBjb250YWluZXJzfGVufDB8MHx8fDE3ODM3NTYxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080"

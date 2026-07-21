@@ -7,7 +7,7 @@ date: 2026-07-11T10:33:38+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["수납용품 비교"]
-tags: ["수납용품", "습기", "압축팩"]
+tags: ["수납용품", "습기관리", "정리기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1657593322459-a0cb1ff1902d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHx2YWN1dW0lMjBzdG9yYWdlJTIwYmFnJTIwY2xvdGhlc3xlbnwwfDB8fHwxNzgzNzMzNzYxfDA&ixlib=rb-4.1.0&q=80&w=1080"

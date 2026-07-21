@@ -7,7 +7,7 @@ date: 2026-07-21T09:05:46+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["수납 공간 설계"]
-tags: ["데드스페이스", "습기"]
+tags: ["정리기초", "습기관리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1781032384670-d0eb7a79f1af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxzbGlkaW5nJTIwZHJhd2VyJTIwdW5kZXIlMjBiZWR8ZW58MHwwfHx8MTc4NDE2ODA1Nnww&ixlib=rb-4.1.0&q=80&w=1080"

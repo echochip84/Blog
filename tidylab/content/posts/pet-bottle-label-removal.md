@@ -7,7 +7,7 @@ date: 2026-07-18T00:17:14+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["계절 정리법"]
-tags: ["계절정리", "분리배출"]
+tags: ["계절정리", "정리기초"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1571727153934-b9e0059b7ab2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHxjbGVhciUyMHBsYXN0aWMlMjBib3R0bGUlMjByZWN5Y2xpbmd8ZW58MHwwfHx8MTc4NDE2ODA0MXww&ixlib=rb-4.1.0&q=80&w=1080"

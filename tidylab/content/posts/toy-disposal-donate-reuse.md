@@ -7,7 +7,7 @@ date: 2026-07-11T10:27:38+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["아이방 정리법"]
-tags: ["버리기", "아이방", "장난감"]
+tags: ["미니멀라이프", "아이방정리"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1598838909554-7ed3ccba096d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHx0b3klMjBkb25hdGlvbiUyMGJveCUyMGNoaWxkcmVuJTIwdG95c3xlbnwwfDB8fHwxNzgzNzQ1MDYzfDA&ixlib=rb-4.1.0&q=80&w=1080"

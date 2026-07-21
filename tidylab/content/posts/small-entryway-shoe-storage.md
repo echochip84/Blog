@@ -7,7 +7,7 @@ date: 2026-07-11T16:46:44+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["수납 공간 설계"]
-tags: ["공간활용", "신발"]
+tags: ["공간활용", "정리기초"]
 author: "정리수납 연구소"
 cover:
   image: "https://images.unsplash.com/photo-1771354959667-96360bf59eab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwzfHx1bWJyZWxsYSUyMHN0YW5kJTIwYnklMjBmcm9udCUyMGRvb3J8ZW58MHwwfHx8MTc4Mzc1NjE1NXww&ixlib=rb-4.1.0&q=80&w=1080"

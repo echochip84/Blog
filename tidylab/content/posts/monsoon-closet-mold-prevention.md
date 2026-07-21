@@ -7,7 +7,7 @@ date: 2026-07-21T09:01:46+09:00
 lastmod: 2026-07-16
 draft: false
 categories: ["옷장 정리실"]
-tags: ["계절옷", "습기"]
+tags: ["정리기초", "습기관리"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxtb2xkeSUyMGRhbXAlMjBjbG9zZXQlMjBjbG90aGVzfGVufDB8MHx8fDE3ODQxNjgwNTN8MA&ixlib=rb-4.1.0&q=80&w=1080"

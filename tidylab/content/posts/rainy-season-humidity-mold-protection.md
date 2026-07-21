@@ -7,7 +7,7 @@ date: 2026-07-10T09:00:00+09:00
 lastmod: 2026-07-10
 draft: false
 categories: ["계절 정리법"]
-tags: ["계절정리", "습기"]
+tags: ["계절정리", "습기관리"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1482822776015-ec86ac56f9bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfGFsbHx8fHx8fHx8fDE3ODM1Nzc4ODV8&ixlib=rb-4.1.0&q=80&w=1080"

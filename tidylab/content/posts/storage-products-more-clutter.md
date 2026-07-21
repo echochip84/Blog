@@ -7,7 +7,7 @@ date: 2026-07-18T00:28:45+09:00
 lastmod: 2026-07-14
 draft: false
 categories: ["수납용품 비교"]
-tags: ["수납용품", "공간활용"]
+tags: ["공간활용", "수납용품"]
 author: "echochip"
 cover:
   image: "https://images.unsplash.com/photo-1650229068182-6931ccb389c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxjbHV0dGVyZWQlMjBvcmdhbml6ZXIlMjBiYXNrZXRzfGVufDB8MHx8fDE3ODM5OTUzMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"

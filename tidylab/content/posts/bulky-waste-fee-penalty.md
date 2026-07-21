@@ -7,7 +7,7 @@ date: 2026-07-11T10:30:38+09:00
 lastmod: 2026-07-11
 draft: false
 categories: ["계절 정리법"]
-tags: ["계절정리", "대형폐기물"]
+tags: ["계절정리", "정리기초"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1632667226262-3f341ec5afff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxidWxreSUyMHdhc3RlJTIwcGlja3VwJTIwZnVybml0dXJlfGVufDB8MHx8fDE3ODM3NDUwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080"

@@ -7,7 +7,7 @@ date: 2026-07-09T13:00:00+09:00
 lastmod: 2026-07-09
 draft: false
 categories: ["계절 정리법"]
-tags: ["계절정리", "공간활용", "보관"]
+tags: ["계절정리", "공간활용", "수납용품"]
 author: "편집팀"
 cover:
   image: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTE5NTB8MHwxfHNlYXJjaHwxfHxzZWFzb25hbCUyMGNsb3RoaW5nJTIwY2xvc2V0JTIwb3JnYW5pemVkfGVufDB8MHx8fDE3ODM1NTg0MDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
