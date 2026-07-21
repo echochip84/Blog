@@ -1,8 +1,10 @@
 {
   "name": "plainpedia",
   "compatibility_date": "2026-07-05",
+  "main": "src/index.js",
   "assets": {
-    "directory": "./public"
+    "directory": "./public",
+    "binding": "ASSETS"
   },
   "routes": [
     { "pattern": "plainpedia.com", "custom_domain": true },
